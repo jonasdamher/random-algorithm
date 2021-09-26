@@ -559,7 +559,10 @@
         "prefix_mobile": [
             {
                 "prefix": "9",
-                "size": "6 to 9"
+                "size": [
+                    "6",
+                    " 9"
+                ]
             }
         ]
     },
@@ -589,11 +592,11 @@
         "prefix_mobile": [
             {
                 "prefix": "6",
-                "size": "?[3]"
+                "size": "?"
             },
             {
                 "prefix": "7",
-                "size": "?[3]"
+                "size": "?"
             }
         ]
     },
@@ -807,47 +810,47 @@
             },
             {
                 "prefix": "10",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "15",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "16",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "69",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "70",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "81",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "86",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "87",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "93",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "96",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "98",
-                "size": "9\n"
+                "size": "9"
             }
         ]
     },
@@ -978,35 +981,35 @@
             },
             {
                 "prefix": "140",
-                "size": "13\n"
+                "size": "13"
             },
             {
                 "prefix": "141",
-                "size": "13\n"
+                "size": "13"
             },
             {
                 "prefix": "142",
-                "size": "13\n"
+                "size": "13"
             },
             {
                 "prefix": "143",
-                "size": "13\n"
+                "size": "13"
             },
             {
                 "prefix": "144",
-                "size": "13\n"
+                "size": "13"
             },
             {
                 "prefix": "145",
-                "size": "13\n"
+                "size": "13"
             },
             {
                 "prefix": "146",
-                "size": "13\n"
+                "size": "13"
             },
             {
                 "prefix": "148",
-                "size": "13\n"
+                "size": "13"
             },
             {
                 "prefix": "145",
@@ -2093,7 +2096,10 @@
             },
             {
                 "prefix": "160",
-                "size": "10/11"
+                "size": [
+                    "10",
+                    "11"
+                ]
             },
             {
                 "prefix": "162",
@@ -3897,55 +3903,55 @@
         "prefix_mobile": [
             {
                 "prefix": "6",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "7",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "8",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "90",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "91",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "92",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "93",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "94",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "95",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "96",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "97",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "98",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "99",
-                "size": "10\n"
+                "size": "10"
             }
         ]
     },
@@ -3959,7 +3965,10 @@
             },
             {
                 "prefix": "812",
-                "size": "10-11"
+                "size": [
+                    "10",
+                    "11"
+                ]
             },
             {
                 "prefix": "813",
@@ -3975,11 +3984,17 @@
             },
             {
                 "prefix": "816",
-                "size": "9-10"
+                "size": [
+                    "9",
+                    "10"
+                ]
             },
             {
                 "prefix": "817",
-                "size": "9-10"
+                "size": [
+                    "9",
+                    "10"
+                ]
             },
             {
                 "prefix": "818",
@@ -4007,7 +4022,10 @@
             },
             {
                 "prefix": "856",
-                "size": "10-11"
+                "size": [
+                    "10",
+                    "11"
+                ]
             },
             {
                 "prefix": "858",
@@ -4270,11 +4288,14 @@
             },
             {
                 "prefix": "322",
-                "size": "13 (3 + 10)"
+                "size": "13(3 + 10)"
             },
             {
                 "prefix": "323",
-                "size": "12 (\"32\" + 10-digit MSISDN)"
+                "size": [
+                    "12(\"32\" + 10",
+                    "digit MSISDN)"
+                ]
             },
             {
                 "prefix": "324",
@@ -4294,7 +4315,10 @@
             },
             {
                 "prefix": "330",
-                "size": "9-10"
+                "size": [
+                    "9",
+                    "10"
+                ]
             },
             {
                 "prefix": "331",
@@ -4310,15 +4334,24 @@
             },
             {
                 "prefix": "335",
-                "size": "9-10"
+                "size": [
+                    "9",
+                    "10"
+                ]
             },
             {
                 "prefix": "336",
-                "size": "9-10"
+                "size": [
+                    "9",
+                    "10"
+                ]
             },
             {
                 "prefix": "337",
-                "size": "9-10"
+                "size": [
+                    "9",
+                    "10"
+                ]
             },
             {
                 "prefix": "338",
@@ -4334,7 +4367,7 @@
             },
             {
                 "prefix": "341",
-                "size": "13 (3 + 10)"
+                "size": "13(3 + 10)"
             },
             {
                 "prefix": "342",
@@ -4342,7 +4375,10 @@
             },
             {
                 "prefix": "343",
-                "size": "12 (\"34\" + 10-digit MSISDN)"
+                "size": [
+                    "12(\"34\" + 10",
+                    "digit MSISDN)"
+                ]
             },
             {
                 "prefix": "344",
@@ -4382,19 +4418,25 @@
             },
             {
                 "prefix": "360",
-                "size": "9-10"
+                "size": [
+                    "9",
+                    "10"
+                ]
             },
             {
                 "prefix": "361",
-                "size": "13 (3 + 10)"
+                "size": "13(3 + 10)"
             },
             {
                 "prefix": "362",
-                "size": "13 (3 + 10)"
+                "size": "13(3 + 10)"
             },
             {
                 "prefix": "363",
-                "size": "12 (\"36\" + 10-digit MSISDN)"
+                "size": [
+                    "12(\"36\" + 10",
+                    "digit MSISDN)"
+                ]
             },
             {
                 "prefix": "366",
@@ -4402,7 +4444,10 @@
             },
             {
                 "prefix": "368",
-                "size": "9-10"
+                "size": [
+                    "9",
+                    "10"
+                ]
             },
             {
                 "prefix": "370",
@@ -4430,15 +4475,18 @@
             },
             {
                 "prefix": "381",
-                "size": "13 (3 + 10)"
+                "size": "13(3 + 10)"
             },
             {
                 "prefix": "382",
-                "size": "13 (3 + 10)"
+                "size": "13(3 + 10)"
             },
             {
                 "prefix": "383",
-                "size": "12 (\"38\" + 10-digit MSISDN)"
+                "size": [
+                    "12(\"38\" + 10",
+                    "digit MSISDN)"
+                ]
             },
             {
                 "prefix": "385",
@@ -4454,7 +4502,7 @@
             },
             {
                 "prefix": "390",
-                "size": "13 (3 + 10)"
+                "size": "13(3 + 10)"
             },
             {
                 "prefix": "391",
@@ -4470,7 +4518,7 @@
             },
             {
                 "prefix": "397",
-                "size": "13 (3 + 10)"
+                "size": "13(3 + 10)"
             }
         ]
     },
@@ -4514,19 +4562,19 @@
         "prefix_mobile": [
             {
                 "prefix": "60",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "70",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "80",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "90",
-                "size": "10\n"
+                "size": "10"
             }
         ]
     },
@@ -5249,43 +5297,43 @@
             },
             {
                 "prefix": "925",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "926",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "943",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "94",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "944",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "95",
-                "size": "8\n"
+                "size": "8"
             },
             {
                 "prefix": "96",
-                "size": "8\n"
+                "size": "8"
             },
             {
                 "prefix": "973",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "991",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "93",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "996",
@@ -5395,7 +5443,10 @@
             },
             {
                 "prefix": "21",
-                "size": "8-10"
+                "size": [
+                    "8",
+                    "10"
+                ]
             },
             {
                 "prefix": "22",
@@ -5407,7 +5458,10 @@
             },
             {
                 "prefix": "25",
-                "size": "8-9"
+                "size": [
+                    "8",
+                    "9"
+                ]
             },
             {
                 "prefix": "27",
@@ -5732,63 +5786,63 @@
         "prefix_mobile": [
             {
                 "prefix": "961",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "963",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "971",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "972",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "973",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "975",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "981",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "982",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "983",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "984",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "985",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "991",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "992",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "993",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "995",
-                "size": "9\n"
+                "size": "9"
             }
         ]
     },
@@ -6172,39 +6226,39 @@
         "prefix_mobile": [
             {
                 "prefix": "70",
-                "size": "10[7]"
+                "size": "10"
             },
             {
                 "prefix": "711",
-                "size": "10[7]"
+                "size": "10"
             },
             {
                 "prefix": "72",
-                "size": "10[7]"
+                "size": "10"
             },
             {
                 "prefix": "73",
-                "size": "10[7]"
+                "size": "10"
             },
             {
                 "prefix": "74",
-                "size": "10[7]"
+                "size": "10"
             },
             {
                 "prefix": "75",
-                "size": "10[7]"
+                "size": "10"
             },
             {
                 "prefix": "76",
-                "size": "10[7]"
+                "size": "10"
             },
             {
                 "prefix": "77",
-                "size": "10[7]"
+                "size": "10"
             },
             {
                 "prefix": "78",
-                "size": "10[7]"
+                "size": "10"
             }
         ]
     },
@@ -6999,7 +7053,7 @@
             },
             {
                 "prefix": "710",
-                "size": "10\n"
+                "size": "10"
             },
             {
                 "prefix": "72",
@@ -7159,27 +7213,27 @@
         "prefix_mobile": [
             {
                 "prefix": "93",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "98",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "99",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "94",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "95",
-                "size": "9\n"
+                "size": "9"
             },
             {
                 "prefix": "96",
-                "size": "9\n"
+                "size": "9"
             }
         ]
     },

@@ -7040,7 +7040,6 @@ function getPrefixMobile($, tr, start, final, first = true, list = [], nextRowSi
     let positionSize = first ? 3 : 1;
 
     let tdSize = $(currentTr.children('td')[positionSize]);
-    let tdLength = $(currentTr.children('td')).length;
 
     let tdTextPrefix = $(tdPrefix).text().trim();
 
@@ -7048,6 +7047,11 @@ function getPrefixMobile($, tr, start, final, first = true, list = [], nextRowSi
     let tdTextSize = tdSize.text();
 
     if (nextRowSize == countRowSize) {
+      tdTextSize = tdTextSize.replace(/\[.*\]|\(.*\)| /, '').trim()
+
+      if (tdTextSize.search(/to|–|\/|-/) != -1) {
+        tdTextSize = tdTextSize.split(/to|–|\/|-/)
+      }
       size = tdTextSize
       ++countRowSize;
       if (rowSize) {
