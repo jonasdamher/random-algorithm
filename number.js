@@ -7034,9 +7034,55 @@ function getPrefixMobile($, tr, start, final, list = [], first = true) {
 
     let position = first ? 2 : 0;
     let currentTr = $($(tr[start]).children('td')[position]).text().trim();
-    if (currentTr.length) {
-      list.push(currentTr);
+
+    if (currentTr.search(/,|\//) != -1) {
+
+      let tdsplit = currentTr.split(/,|\//)
+
+      tdsplit.forEach((pref) => {
+
+        if (pref.search(/–|-/) != -1) {
+
+          let splitTd = pref.split(/–|-/).map((e) => {
+            return e.trim().replace(/[^0-9 ]/g, '');
+          })
+
+          if (splitTd.length) {
+
+            for (let a = splitTd[0]; a <= splitTd[1]; a++) {
+              let number = a.toString();
+
+              list.push(number)
+            }
+          }
+
+        } else {
+          list.push(pref.trim().replace(/[^0-9 ]/g, ''));
+        }
+      })
+
+
+    } else if (currentTr.search(/–|-/) != -1) {
+
+      let splitTd = currentTr.split(/–|-/).map((pref) => {
+        return pref.trim().replace(/[^0-9 ]/g, '');
+      })
+
+      if (splitTd.length) {
+        for (let i = splitTd[0]; i <= splitTd[1]; i++) {
+          let number = i.toString();
+          list.push(number)
+        }
+      }
+
+    } else {
+      currentTr = currentTr.replace(/[^0-9 ]/g, '');
+
+      if (currentTr.length) {
+        list.push(currentTr);
+      }
     }
+
     ++start;
     return getPrefixMobile($, tr, start, final, list, false)
   } else {
@@ -7045,7 +7091,7 @@ function getPrefixMobile($, tr, start, final, list = [], first = true) {
 }
 
 function getPrefix($, tr, total, count = 0, list = []) {
-  if (total >= count) {
+  if (total > count) {
 
     let currentTr = $(tr[count])
 
@@ -7072,11 +7118,17 @@ function getPrefix($, tr, total, count = 0, list = []) {
       ++count;
     }
 
+    // size
+    let size = td4.text().trim()
+    size = size.replace(/\[.*\]|\(.*\)/g, '')
+
+    size = size.replace(/[^0-9]/, '')
+
     list.push({
-      country: td1.text().trim(),
-      prefix: td2.text().trim().replace(/[^0-9]/,''),
+      country: td1.text().trim().replace(/\[.*\]|\(.*\)/g, ''),
+      prefix: td2.text().trim().replace(/[^0-9-]/, ''),
       prefix_mobile: listPrefix,
-      size: td4.text().trim().replace(/[^0-9]/,''),
+      size: size
     })
 
     return getPrefix($, tr, total, count, list);

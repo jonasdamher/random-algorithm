@@ -1,6 +1,6 @@
 [
     {
-        "country": "Afghanistan[1]",
+        "country": "Afghanistan",
         "prefix": "93",
         "prefix_mobile": [
             "70",
@@ -25,7 +25,7 @@
         "size": "10"
     },
     {
-        "country": "Albania[2]",
+        "country": "Albania",
         "prefix": "355",
         "prefix_mobile": [
             "67",
@@ -82,7 +82,7 @@
         "country": "Antigua and Barbuda",
         "prefix": "1",
         "prefix_mobile": [
-            "268 7xx"
+            "268 7"
         ],
         "size": "10"
     },
@@ -90,7 +90,8 @@
         "country": "Argentina",
         "prefix": "54",
         "prefix_mobile": [
-            "9/15"
+            "9",
+            "15"
         ],
         "size": ""
     },
@@ -116,17 +117,13 @@
     {
         "country": "Aruba",
         "prefix": "297",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": "7"
     },
     {
         "country": "Ascension Island",
         "prefix": "247",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -141,7 +138,7 @@
         "country": "Australian Antarctic Territory",
         "prefix": "672",
         "prefix_mobile": [
-            "1x"
+            "1"
         ],
         "size": "9"
     },
@@ -179,9 +176,9 @@
         "country": "Bahamas",
         "prefix": "1",
         "prefix_mobile": [
-            "242 35x",
-            "242 45x",
-            "242 55x"
+            "242 35",
+            "242 45",
+            "242 55"
         ],
         "size": "10"
     },
@@ -215,13 +212,13 @@
         "country": "Bangladesh",
         "prefix": "880",
         "prefix_mobile": [
-            "13xx",
-            "14xx",
-            "15xx",
-            "16xx",
-            "17xx",
-            "18xx",
-            "19xx"
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19"
         ],
         "size": "10"
     },
@@ -229,10 +226,7 @@
         "country": "Barbados",
         "prefix": "1",
         "prefix_mobile": [
-            "246",
-            "Digicel",
-            "LIME",
-            "Sunbeach"
+            "246"
         ],
         "size": "10"
     },
@@ -260,9 +254,9 @@
         "prefix": "32",
         "prefix_mobile": [
             "456",
-            "47x",
-            "48x",
-            "49x"
+            "47",
+            "48",
+            "49"
         ],
         "size": "9"
     },
@@ -278,7 +272,7 @@
         "country": "Benin",
         "prefix": "229",
         "prefix_mobile": [
-            "9x"
+            "9"
         ],
         "size": "6to 9"
     },
@@ -305,18 +299,16 @@
             "6",
             "7"
         ],
-        "size": "[3]"
+        "size": ""
     },
     {
         "country": "Bonaire",
         "prefix": "599",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
-        "country": "Bosnia and Herzegovina (Bosnia-Herzegovina)",
+        "country": "Bosnia and Herzegovina ",
         "prefix": "387",
         "prefix_mobile": [
             "60",
@@ -341,10 +333,10 @@
         "country": "Brazil",
         "prefix": "55",
         "prefix_mobile": [
-            "xx 6",
-            "xx 7",
-            "xx 8",
-            "xx 9"
+            " 6",
+            " 7",
+            " 8",
+            " 9"
         ],
         "size": "11"
     },
@@ -368,7 +360,7 @@
         "country": "Brunei",
         "prefix": "673",
         "prefix_mobile": [
-            "8x"
+            "8"
         ],
         "size": ""
     },
@@ -409,7 +401,7 @@
         "country": "Burundi",
         "prefix": "257",
         "prefix_mobile": [
-            "7x"
+            "7"
         ],
         "size": ""
     },
@@ -449,17 +441,13 @@
     {
         "country": "Canada",
         "prefix": "1",
-        "prefix_mobile": [
-            "No clear distinction between land and cell numbers.\nArea code structure: N-X-Y\nN is not 0 or 1\nX is not 9\nX ≠ Y"
-        ],
+        "prefix_mobile": [],
         "size": "10"
     },
     {
         "country": "Canary Islands",
         "prefix": "34",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -481,17 +469,13 @@
     {
         "country": "Central African Republic",
         "prefix": "236",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
         "country": "Ceuta",
         "prefix": "34",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -529,14 +513,28 @@
         "country": "People's Republic of China",
         "prefix": "86",
         "prefix_mobile": [
-            "13x",
-            "140-146,148",
-            "145, 147, 149",
-            "15x",
-            "161-162, 164-167",
-            "17x (except 179)",
-            "18x",
-            "19x"
+            "13",
+            "140",
+            "141",
+            "142",
+            "143",
+            "144",
+            "145",
+            "146",
+            "148",
+            "145",
+            "147",
+            "149",
+            "15",
+            "161",
+            "162",
+            "164",
+            "165",
+            "166",
+            "167",
+            "17  179",
+            "18",
+            "19"
         ],
         "size": "11"
     },
@@ -549,7 +547,7 @@
         "size": ""
     },
     {
-        "country": "Cocos (Keeling) Islands",
+        "country": "Cocos  Islands",
         "prefix": "61",
         "prefix_mobile": [
             "8 9162"
@@ -560,7 +558,7 @@
         "country": "Colombia",
         "prefix": "57",
         "prefix_mobile": [
-            "30x",
+            "30",
             "310",
             "311",
             "312",
@@ -571,8 +569,9 @@
             "317",
             "318",
             "319",
-            "32x",
-            "350, 351"
+            "32",
+            "350",
+            "351"
         ],
         "size": "10"
     },
@@ -622,8 +621,8 @@
         "country": "Cook Islands",
         "prefix": "682",
         "prefix_mobile": [
-            "5x",
-            "7x"
+            "5",
+            "7"
         ],
         "size": "5"
     },
@@ -661,17 +660,13 @@
     {
         "country": "Curaçao",
         "prefix": "599",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
         "country": "Curaçao and the Caribbean Netherlands",
         "prefix": "599",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -699,9 +694,9 @@
             "607",
             "608",
             "702",
-            "72x",
-            "73x",
-            "77x",
+            "72",
+            "73",
+            "77",
             "790"
         ],
         "size": "9"
@@ -710,7 +705,7 @@
         "country": "Denmark",
         "prefix": "45",
         "prefix_mobile": [
-            "2x",
+            "2",
             "30",
             "31",
             "40",
@@ -747,7 +742,7 @@
         "country": "Dominica",
         "prefix": "1",
         "prefix_mobile": [
-            "767 2xx"
+            "767 2"
         ],
         "size": "10"
     },
@@ -834,7 +829,7 @@
         "country": "Estonia",
         "prefix": "372",
         "prefix_mobile": [
-            "5x"
+            "5"
         ],
         "size": ""
     },
@@ -842,7 +837,7 @@
         "country": "Ethiopia",
         "prefix": "251",
         "prefix_mobile": [
-            "9X"
+            "9"
         ],
         "size": ""
     },
@@ -876,7 +871,7 @@
             "27",
             "28",
             "29",
-            "5x",
+            "5",
             "71",
             "72",
             "73",
@@ -923,7 +918,7 @@
         "country": "Finland",
         "prefix": "358",
         "prefix_mobile": [
-            "4x",
+            "4",
             "457",
             "50",
             "500"
@@ -949,10 +944,10 @@
         "country": "French Overseas Departments and Territories",
         "prefix": "262",
         "prefix_mobile": [
-            "+508",
-            "+590",
-            "+594",
-            "+596"
+            "508",
+            "590",
+            "594",
+            "596"
         ],
         "size": ""
     },
@@ -969,7 +964,7 @@
         "country": "French Polynesia",
         "prefix": "689",
         "prefix_mobile": [
-            "87: Vini89: PMT"
+            "87 89 "
         ],
         "size": "6"
     },
@@ -990,8 +985,8 @@
         "country": "Gambia",
         "prefix": "220",
         "prefix_mobile": [
-            "7x",
-            "9x"
+            "7",
+            "9"
         ],
         "size": ""
     },
@@ -1027,11 +1022,11 @@
         "country": "Germany",
         "prefix": "49",
         "prefix_mobile": [
-            "151x",
-            "152x",
-            "155x",
-            "157x",
-            "159x",
+            "151",
+            "152",
+            "155",
+            "157",
+            "159",
             "160",
             "162",
             "163",
@@ -1071,7 +1066,7 @@
         "country": "Gibraltar",
         "prefix": "350",
         "prefix_mobile": [
-            "58x"
+            "58"
         ],
         "size": ""
     },
@@ -1094,16 +1089,14 @@
     {
         "country": "Greenland",
         "prefix": "299",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": "6"
     },
     {
         "country": "Grenada",
         "prefix": "1",
         "prefix_mobile": [
-            "473 41x"
+            "473 41"
         ],
         "size": "10"
     },
@@ -1139,23 +1132,59 @@
             "30",
             "310",
             "311",
-            "3120-3128",
-            "4476-4479",
+            "3120",
+            "3121",
+            "3122",
+            "3123",
+            "3124",
+            "3125",
+            "3126",
+            "3127",
+            "3128",
+            "4476",
+            "4477",
+            "4478",
+            "4479",
             "448",
             "449",
             "45",
             "46",
-            "470-476",
-            "4773-4779",
+            "470",
+            "471",
+            "472",
+            "473",
+            "474",
+            "475",
+            "476",
+            "4773",
+            "4774",
+            "4775",
+            "4776",
+            "4777",
+            "4778",
+            "4779",
             "478",
             "479",
             "480",
             "481",
-            "4822-4829",
-            "483-489",
+            "4822",
+            "4823",
+            "4824",
+            "4825",
+            "4826",
+            "4827",
+            "4828",
+            "4829",
+            "483",
+            "484",
+            "485",
+            "486",
+            "487",
+            "488",
+            "489",
             "49",
-            "4x",
-            "5x"
+            "4",
+            "5"
         ],
         "size": "8"
     },
@@ -1191,7 +1220,7 @@
         "size": ""
     },
     {
-        "country": "Haiti[5]",
+        "country": "Haiti",
         "prefix": "509",
         "prefix_mobile": [
             "34",
@@ -1200,7 +1229,7 @@
             "36",
             "37",
             "38",
-            "4x"
+            "4"
         ],
         "size": ""
     },
@@ -1227,14 +1256,302 @@
         "country": "Hong Kong",
         "prefix": "852",
         "prefix_mobile": [
-            "460-469",
-            "510-579",
-            "590-599",
-            "601-699",
-            "701-709",
-            "840-849",
-            "901-910",
-            "912-989"
+            "460",
+            "461",
+            "462",
+            "463",
+            "464",
+            "465",
+            "466",
+            "467",
+            "468",
+            "469",
+            "510",
+            "511",
+            "512",
+            "513",
+            "514",
+            "515",
+            "516",
+            "517",
+            "518",
+            "519",
+            "520",
+            "521",
+            "522",
+            "523",
+            "524",
+            "525",
+            "526",
+            "527",
+            "528",
+            "529",
+            "530",
+            "531",
+            "532",
+            "533",
+            "534",
+            "535",
+            "536",
+            "537",
+            "538",
+            "539",
+            "540",
+            "541",
+            "542",
+            "543",
+            "544",
+            "545",
+            "546",
+            "547",
+            "548",
+            "549",
+            "550",
+            "551",
+            "552",
+            "553",
+            "554",
+            "555",
+            "556",
+            "557",
+            "558",
+            "559",
+            "560",
+            "561",
+            "562",
+            "563",
+            "564",
+            "565",
+            "566",
+            "567",
+            "568",
+            "569",
+            "570",
+            "571",
+            "572",
+            "573",
+            "574",
+            "575",
+            "576",
+            "577",
+            "578",
+            "579",
+            "590",
+            "591",
+            "592",
+            "593",
+            "594",
+            "595",
+            "596",
+            "597",
+            "598",
+            "599",
+            "601",
+            "602",
+            "603",
+            "604",
+            "605",
+            "606",
+            "607",
+            "608",
+            "609",
+            "610",
+            "611",
+            "612",
+            "613",
+            "614",
+            "615",
+            "616",
+            "617",
+            "618",
+            "619",
+            "620",
+            "621",
+            "622",
+            "623",
+            "624",
+            "625",
+            "626",
+            "627",
+            "628",
+            "629",
+            "630",
+            "631",
+            "632",
+            "633",
+            "634",
+            "635",
+            "636",
+            "637",
+            "638",
+            "639",
+            "640",
+            "641",
+            "642",
+            "643",
+            "644",
+            "645",
+            "646",
+            "647",
+            "648",
+            "649",
+            "650",
+            "651",
+            "652",
+            "653",
+            "654",
+            "655",
+            "656",
+            "657",
+            "658",
+            "659",
+            "660",
+            "661",
+            "662",
+            "663",
+            "664",
+            "665",
+            "666",
+            "667",
+            "668",
+            "669",
+            "670",
+            "671",
+            "672",
+            "673",
+            "674",
+            "675",
+            "676",
+            "677",
+            "678",
+            "679",
+            "680",
+            "681",
+            "682",
+            "683",
+            "684",
+            "685",
+            "686",
+            "687",
+            "688",
+            "689",
+            "690",
+            "691",
+            "692",
+            "693",
+            "694",
+            "695",
+            "696",
+            "697",
+            "698",
+            "699",
+            "701",
+            "702",
+            "703",
+            "704",
+            "705",
+            "706",
+            "707",
+            "708",
+            "709",
+            "840",
+            "841",
+            "842",
+            "843",
+            "844",
+            "845",
+            "846",
+            "847",
+            "848",
+            "849",
+            "901",
+            "902",
+            "903",
+            "904",
+            "905",
+            "906",
+            "907",
+            "908",
+            "909",
+            "910",
+            "912",
+            "913",
+            "914",
+            "915",
+            "916",
+            "917",
+            "918",
+            "919",
+            "920",
+            "921",
+            "922",
+            "923",
+            "924",
+            "925",
+            "926",
+            "927",
+            "928",
+            "929",
+            "930",
+            "931",
+            "932",
+            "933",
+            "934",
+            "935",
+            "936",
+            "937",
+            "938",
+            "939",
+            "940",
+            "941",
+            "942",
+            "943",
+            "944",
+            "945",
+            "946",
+            "947",
+            "948",
+            "949",
+            "950",
+            "951",
+            "952",
+            "953",
+            "954",
+            "955",
+            "956",
+            "957",
+            "958",
+            "959",
+            "960",
+            "961",
+            "962",
+            "963",
+            "964",
+            "965",
+            "966",
+            "967",
+            "968",
+            "969",
+            "970",
+            "971",
+            "972",
+            "973",
+            "974",
+            "975",
+            "976",
+            "977",
+            "978",
+            "979",
+            "980",
+            "981",
+            "982",
+            "983",
+            "984",
+            "985",
+            "986",
+            "987",
+            "988",
+            "989"
         ],
         "size": "8"
     },
@@ -1264,19 +1581,19 @@
         "country": "India",
         "prefix": "91",
         "prefix_mobile": [
-            "6xx",
-            "7xx",
-            "8xx",
-            "90x",
-            "91x",
-            "92x",
-            "93x",
-            "94x",
-            "95x",
-            "96x",
-            "97x",
-            "98x",
-            "99x"
+            "6",
+            "7",
+            "8",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98",
+            "99"
         ],
         "size": "10"
     },
@@ -1315,7 +1632,7 @@
             "901",
             "902",
             "903",
-            "91x",
+            "91",
             "920",
             "921",
             "922",
@@ -1338,13 +1655,13 @@
         "country": "Iraq",
         "prefix": "964",
         "prefix_mobile": [
-            "73x",
-            "74x",
-            "75x",
-            "76x",
-            "77x",
-            "78x",
-            "79x"
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79"
         ],
         "size": ""
     },
@@ -1352,7 +1669,7 @@
         "country": "Ireland",
         "prefix": "353",
         "prefix_mobile": [
-            "8x",
+            "8",
             "83",
             "85",
             "86",
@@ -1375,9 +1692,9 @@
             "52",
             "53",
             "54",
-            "5522 or 5523",
+            "5522  5523",
             "556",
-            "5570 or 5571",
+            "5570  5571",
             "558",
             "559",
             "58"
@@ -1453,8 +1770,8 @@
         "country": "Ivory Coast",
         "prefix": "225",
         "prefix_mobile": [
-            "0x",
-            "6x"
+            "0",
+            "6"
         ],
         "size": ""
     },
@@ -1475,7 +1792,7 @@
         "size": ""
     },
     {
-        "country": "Japan[6]",
+        "country": "Japan",
         "prefix": "81",
         "prefix_mobile": [
             "60",
@@ -1524,17 +1841,17 @@
         "country": "Kenya",
         "prefix": "254",
         "prefix_mobile": [
-            "10x",
-            "11x",
-            "70x",
-            "71x",
-            "72x",
-            "73x",
-            "74x",
-            "75x",
+            "10",
+            "11",
+            "70",
+            "71",
+            "72",
+            "73",
+            "74",
+            "75",
             "763",
-            "77x",
-            "78x"
+            "77",
+            "78"
         ],
         "size": "10"
     },
@@ -1543,7 +1860,7 @@
         "prefix": "686",
         "prefix_mobile": [
             "63",
-            "7x"
+            "7"
         ],
         "size": "8"
     },
@@ -1571,7 +1888,7 @@
         "country": "Kyrgyzstan",
         "prefix": "996",
         "prefix_mobile": [
-            "5xx"
+            "5"
         ],
         "size": ""
     },
@@ -1587,7 +1904,7 @@
         "country": "Latvia",
         "prefix": "371",
         "prefix_mobile": [
-            "2xx"
+            "2"
         ],
         "size": "8"
     },
@@ -1607,7 +1924,7 @@
         "prefix": "266",
         "prefix_mobile": [
             "58",
-            "6x"
+            "6"
         ],
         "size": ""
     },
@@ -1646,7 +1963,7 @@
         "country": "Lithuania",
         "prefix": "370",
         "prefix_mobile": [
-            "6xx"
+            "6"
         ],
         "size": "8"
     },
@@ -1675,16 +1992,14 @@
         "country": "Madagascar",
         "prefix": "261",
         "prefix_mobile": [
-            "3x"
+            "3"
         ],
         "size": ""
     },
     {
         "country": "Madeira",
         "prefix": "351",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -1747,9 +2062,7 @@
     {
         "country": "Marshall Islands",
         "prefix": "692",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": "7"
     },
     {
@@ -1783,17 +2096,13 @@
     {
         "country": "Mayotte",
         "prefix": "262",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
         "country": "Melilla",
         "prefix": "34",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -1808,13 +2117,13 @@
         "country": "Moldova",
         "prefix": "373",
         "prefix_mobile": [
-            "60xxxxxx",
-            "65xxxxxx",
-            "67xxxxxx",
-            "68xxxxxx",
-            "69xxxxxx",
-            "78xxxxxx",
-            "79xxxxxx"
+            "60",
+            "65",
+            "67",
+            "68",
+            "69",
+            "78",
+            "79"
         ],
         "size": "8"
     },
@@ -1831,16 +2140,16 @@
         "country": "Mongolia",
         "prefix": "976",
         "prefix_mobile": [
-            "70xxxxxx",
-            "88xxxxxx",
-            "89xxxxxx",
-            "91xxxxxx",
-            "93xxxxxx",
-            "94xxxxxx",
-            "95xxxxxx",
-            "96xxxxxx",
-            "98xxxxxx",
-            "99xxxxxx"
+            "70",
+            "88",
+            "89",
+            "91",
+            "93",
+            "94",
+            "95",
+            "96",
+            "98",
+            "99"
         ],
         "size": "8"
     },
@@ -1869,7 +2178,7 @@
         "country": "Morocco",
         "prefix": "212",
         "prefix_mobile": [
-            "6x"
+            "6"
         ],
         "size": ""
     },
@@ -1877,7 +2186,7 @@
         "country": "Mozambique",
         "prefix": "258",
         "prefix_mobile": [
-            "82\n83\n84\n85\n86\n87"
+            "828384858687"
         ],
         "size": "12"
     },
@@ -1885,22 +2194,22 @@
         "country": "Myanmar",
         "prefix": "95",
         "prefix_mobile": [
-            "92xxxxxx",
-            "925xxxxxxx",
-            "926xxxxxxx",
-            "943xxxxxx",
-            "94xxxxxxxx",
-            "944xxxxxx",
-            "95xxxxxx",
-            "96xxxxxx",
-            "973xxxxxx",
-            "991xxxxxx",
-            "93xxxxxxx",
-            "996xxxxxxx",
-            "997xxxxxxx",
-            "977xxxxxxx",
-            "978xxxxxxx",
-            "979xxxxxxx"
+            "92",
+            "925",
+            "926",
+            "943",
+            "94",
+            "944",
+            "95",
+            "96",
+            "973",
+            "991",
+            "93",
+            "996",
+            "997",
+            "977",
+            "978",
+            "979"
         ],
         "size": "8"
     },
@@ -1934,7 +2243,7 @@
         "country": "Nepal",
         "prefix": "977",
         "prefix_mobile": [
-            "98xxxxxxxx"
+            "98"
         ],
         "size": "10"
     },
@@ -2023,9 +2332,7 @@
     {
         "country": "North Korea",
         "prefix": "850",
-        "prefix_mobile": [
-            "?"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -2099,21 +2406,19 @@
         "country": "Pakistan",
         "prefix": "92",
         "prefix_mobile": [
-            "3xx MOBILE CODE",
-            "30x",
-            "31x",
-            "32x",
-            "33x",
-            "34x"
+            "3  ",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
         ],
         "size": "10"
     },
     {
         "country": "Palau",
         "prefix": "680",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": "7"
     },
     {
@@ -2223,36 +2528,32 @@
     {
         "country": "Pitcairn Islands",
         "prefix": "64",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
         "country": "Plazas de soberanía",
         "prefix": "34",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
         "country": "Poland",
         "prefix": "48",
         "prefix_mobile": [
-            "50x",
-            "45x",
-            "51x",
-            "53x",
-            "57x",
-            "60x",
-            "66x",
-            "69x",
-            "72x",
-            "73x",
-            "78x",
-            "79x",
-            "88x"
+            "50",
+            "45",
+            "51",
+            "53",
+            "57",
+            "60",
+            "66",
+            "69",
+            "72",
+            "73",
+            "78",
+            "79",
+            "88"
         ],
         "size": "9"
     },
@@ -2309,7 +2610,8 @@
         "country": "Réunion",
         "prefix": "262",
         "prefix_mobile": [
-            "692 / 693",
+            "692",
+            "693",
             "700"
         ],
         "size": "9"
@@ -2318,20 +2620,20 @@
         "country": "Romania",
         "prefix": "40",
         "prefix_mobile": [
-            "70x",
+            "70",
             "711",
-            "72x",
-            "73x",
-            "74x",
-            "75x",
-            "76x",
-            "77x",
-            "78x"
+            "72",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
         ],
-        "size": "107]"
+        "size": "10"
     },
     {
-        "country": "Russia (Russian Federation)",
+        "country": "Russia ",
         "prefix": "7",
         "prefix_mobile": [
             "901",
@@ -2342,14 +2644,14 @@
             "906",
             "908",
             "909",
-            "91x",
-            "92x",
-            "93x",
+            "91",
+            "92",
+            "93",
             "950",
             "951",
             "952",
             "953",
-            "96x",
+            "96",
             "980",
             "983",
             "986"
@@ -2368,9 +2670,7 @@
     {
         "country": "Saba",
         "prefix": "599",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -2382,11 +2682,9 @@
         "size": ""
     },
     {
-        "country": "Saint Helena and Tristan da Cunha (not Ascenscion)",
+        "country": "Saint Helena and Tristan da Cunha ",
         "prefix": "290",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": "4"
     },
     {
@@ -2416,9 +2714,7 @@
     {
         "country": "Saint Pierre and Miquelon",
         "prefix": "508",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -2517,7 +2813,7 @@
             "23",
             "30",
             "33",
-            "7x"
+            "7"
         ],
         "size": ""
     },
@@ -2533,9 +2829,7 @@
     {
         "country": "Sint Eustatius",
         "prefix": "599",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -2547,7 +2841,7 @@
         "size": "10"
     },
     {
-        "country": "Slovakia (Slovak Republic)",
+        "country": "Slovakia ",
         "prefix": "421",
         "prefix_mobile": [
             "901",
@@ -2608,9 +2902,7 @@
     {
         "country": "Somalia",
         "prefix": "252",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": "7or 8"
     },
     {
@@ -2648,9 +2940,7 @@
     {
         "country": "South Georgia and the South Sandwich Islands",
         "prefix": "500",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -2670,7 +2960,7 @@
         "country": "South Ossetia",
         "prefix": "995",
         "prefix_mobile": [
-            "34x"
+            "34"
         ],
         "size": ""
     },
@@ -2678,7 +2968,7 @@
         "country": "South Sudan",
         "prefix": "211",
         "prefix_mobile": [
-            "9x"
+            "9"
         ],
         "size": ""
     },
@@ -2739,36 +3029,25 @@
             "72",
             "73 00",
             "73 01",
-            "73 02 - 09",
             "73 10",
             "73 11",
             "73 12",
             "73 13",
-            "73 14 - 15",
             "73 16",
             "73 170",
-            "73 171 - 179",
             "73 18",
             "73 19",
             "73 20",
-            "73 21 - 22",
             "73 23",
-            "73 24 - 26",
             "73 27",
             "73 28",
             "73 29",
             "73 3",
-            "73 40 - 44",
-            "73 450 - 454",
             "73 455",
             "73 456",
-            "73 457 - 459",
-            "73 46 - 49",
-            "73 50 - 54",
-            "73 55 - 59",
             "73 6",
-            "73 70 - 79",
-            "73 80 - 84",
+            "73 70",
+            "73 80",
             "73 85",
             "73 86",
             "73 87",
@@ -2843,7 +3122,7 @@
         "country": "Tanzania",
         "prefix": "255",
         "prefix_mobile": [
-            "74x"
+            "74"
         ],
         "size": ""
     },
@@ -2873,9 +3152,7 @@
     {
         "country": "Tokelau",
         "prefix": "690",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -2953,24 +3230,63 @@
     {
         "country": "Tuvalu",
         "prefix": "688",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
-        "country": "Uganda[10]",
+        "country": "Uganda",
         "prefix": "256",
         "prefix_mobile": [
-            "2,3,4",
+            "2",
+            "3",
+            "4",
             "720",
             "730",
-            "740 –744",
-            "750 –759",
-            "760 –764",
-            "770 –779",
-            "780 –789",
-            "790 –794"
+            "740",
+            "741",
+            "742",
+            "743",
+            "744",
+            "750",
+            "751",
+            "752",
+            "753",
+            "754",
+            "755",
+            "756",
+            "757",
+            "758",
+            "759",
+            "760",
+            "761",
+            "762",
+            "763",
+            "764",
+            "770",
+            "771",
+            "772",
+            "773",
+            "774",
+            "775",
+            "776",
+            "777",
+            "778",
+            "779",
+            "780",
+            "781",
+            "782",
+            "783",
+            "784",
+            "785",
+            "786",
+            "787",
+            "788",
+            "789",
+            "790",
+            "791",
+            "792",
+            "793",
+            "794"
         ],
         "size": ""
     },
@@ -3010,27 +3326,25 @@
         "size": "9"
     },
     {
-        "country": "United Kingdom[11]",
+        "country": "United Kingdom",
         "prefix": "44",
         "prefix_mobile": [
-            "71xx",
-            "72xx",
-            "73xx",
-            "74xx",
-            "75xx",
+            "71",
+            "72",
+            "73",
+            "74",
+            "75",
             "7624",
-            "77xx",
-            "78xx",
-            "79xx"
+            "77",
+            "78",
+            "79"
         ],
         "size": "10"
     },
     {
-        "country": "United States (USA)",
+        "country": "United States ",
         "prefix": "1",
-        "prefix_mobile": [
-            "No clear distinction between land and cell numbers.\nArea code structure: N-X-Y\nN is not 0 or 1\nX is not 9\nX ≠ Y"
-        ],
+        "prefix_mobile": [],
         "size": "10"
     },
     {
@@ -3090,7 +3404,7 @@
         "country": "Venezuela",
         "prefix": "58",
         "prefix_mobile": [
-            "4xx",
+            "4",
             "412",
             "414",
             "416",
@@ -3103,7 +3417,11 @@
         "country": "Vietnam",
         "prefix": "84",
         "prefix_mobile": [
-            "3x, 5x, 7x, 8x, 9x"
+            "3",
+            "5",
+            "7",
+            "8",
+            "9"
         ],
         "size": "9"
     },
@@ -3124,9 +3442,7 @@
     {
         "country": "Wallis and Futuna",
         "prefix": "681",
-        "prefix_mobile": [
-            "??"
-        ],
+        "prefix_mobile": [],
         "size": ""
     },
     {
@@ -3139,7 +3455,7 @@
         "country": "Yemen",
         "prefix": "967",
         "prefix_mobile": [
-            "7x",
+            "7",
             "70",
             "71",
             "73",
@@ -3151,7 +3467,7 @@
         "country": "Zambia",
         "prefix": "260",
         "prefix_mobile": [
-            "9x"
+            "9"
         ],
         "size": ""
     },
@@ -3164,11 +3480,5 @@
             "77"
         ],
         "size": "9"
-    },
-    {
-        "country": "",
-        "prefix": "",
-        "prefix_mobile": [],
-        "size": ""
     }
 ]

@@ -1,0 +1,23 @@
+{
+  "name": "random-algorithm",
+  "version": "1.0.0",
+  "description": "Algoritmos varios",
+  "main": "dni.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasdamher/random-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasdamher/random-algorithm/issues"
+  },
+  "homepage": "https://github.com/jonasdamher/random-algorithm#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
