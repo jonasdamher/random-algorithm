@@ -7028,23 +7028,44 @@ X ≠ Y
 <td>
 </td></tr></tbody><tfoot></tfoot></table>`;
 
-function getPrefixMobile($, tr, start, final, list = [], first = true) {
+function getPrefixMobile($, tr, start, final, first = true, list = [], nextRowSize = 0, countRowSize = 0, size = '') {
 
   if (start <= final) {
 
     let position = first ? 2 : 0;
-    let currentTr = $($(tr[start]).children('td')[position]).text().trim();
+    let currentTr = $(tr[start]);
 
-    if (currentTr.search(/,|\//) != -1) {
+    let tdPrefix = currentTr.children('td')[position];
 
-      let tdsplit = currentTr.split(/,|\//)
+    let positionSize = first ? 3 : 1;
 
+    let tdSize = $(currentTr.children('td')[positionSize]);
+    let tdLength = $(currentTr.children('td')).length;
+
+    let tdTextPrefix = $(tdPrefix).text().trim();
+
+    let rowSize = tdSize.attr('rowspan');
+    let tdTextSize = tdSize.text();
+
+    if (nextRowSize == countRowSize) {
+      size = tdTextSize
+      ++countRowSize;
+      if (rowSize) {
+        countRowSize += (Number.parseInt(rowSize) - 1);
+      }
+
+    }
+
+    ++nextRowSize;
+
+
+    if (tdTextPrefix.search(/,|\//) != -1) {
+      let tdsplit = tdTextPrefix.split(/,|\//)
       tdsplit.forEach((pref) => {
 
         if (pref.search(/–|-/) != -1) {
-
           let splitTd = pref.split(/–|-/).map((e) => {
-            return e.trim().replace(/[^0-9 ]/g, '');
+            return e.trim().replace(/[^0-9]/g, '');
           })
 
           if (splitTd.length) {
@@ -7052,39 +7073,42 @@ function getPrefixMobile($, tr, start, final, list = [], first = true) {
             for (let a = splitTd[0]; a <= splitTd[1]; a++) {
               let number = a.toString();
 
-              list.push(number)
+              list.push({ prefix: number, size: size })
             }
           }
 
         } else {
-          list.push(pref.trim().replace(/[^0-9 ]/g, ''));
+
+
+          list.push({ prefix: pref.trim().replace(/[^0-9]/g, ''), size: size });
         }
       })
 
 
-    } else if (currentTr.search(/–|-/) != -1) {
+    } else if (tdTextPrefix.search(/–|-/) != -1) {
 
-      let splitTd = currentTr.split(/–|-/).map((pref) => {
-        return pref.trim().replace(/[^0-9 ]/g, '');
+      let splitTd = tdTextPrefix.split(/–|-/).map((pref) => {
+        return pref.trim().replace(/[^0-9]/g, '');
       })
 
       if (splitTd.length) {
         for (let i = splitTd[0]; i <= splitTd[1]; i++) {
           let number = i.toString();
-          list.push(number)
+          list.push({ prefix: number, size: size })
         }
       }
 
     } else {
-      currentTr = currentTr.replace(/[^0-9 ]/g, '');
+      tdTextPrefix = tdTextPrefix.replace(/[^0-9]/g, '');
 
-      if (currentTr.length) {
-        list.push(currentTr);
+      if (tdTextPrefix.length) {
+        list.push({ prefix: tdTextPrefix, size: size });
       }
     }
 
     ++start;
-    return getPrefixMobile($, tr, start, final, list, false)
+    return getPrefixMobile($, tr, start, final, false, list, nextRowSize, countRowSize, size)
+
   } else {
     return list;
   }
@@ -7097,7 +7121,6 @@ function getPrefix($, tr, total, count = 0, list = []) {
 
     let td1 = $(currentTr.children('td')[0]);
     let td2 = $(currentTr.children('td')[1]);
-    let td4 = $(currentTr.children('td')[3]);
 
     let rowSpan = td1.attr('rowspan');
     let numberRow = 0;
@@ -7110,6 +7133,7 @@ function getPrefix($, tr, total, count = 0, list = []) {
     } else {
       totalRow = count
     }
+
     let listPrefix = getPrefixMobile($, tr, count, totalRow);
 
     if (rowSpan) {
@@ -7118,18 +7142,12 @@ function getPrefix($, tr, total, count = 0, list = []) {
       ++count;
     }
 
-    // size
-    let size = td4.text().trim()
-    size = size.replace(/\[.*\]|\(.*\)/g, '')
-
-    size = size.replace(/[^0-9]/, '')
-
     list.push({
-      country: td1.text().trim().replace(/\[.*\]|\(.*\)/g, ''),
+      country: td1.text().replace(/\[.*\]|\(.*\)/g, '').trim(),
       prefix: td2.text().trim().replace(/[^0-9-]/, ''),
-      prefix_mobile: listPrefix,
-      size: size
+      prefix_mobile: listPrefix
     })
+
 
     return getPrefix($, tr, total, count, list);
   } else {

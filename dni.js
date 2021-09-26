@@ -12,6 +12,6 @@ function dni(numberDni) {
     return completeDni;
 }
 
-let completeDni = dni('54107108');
+let completeDni = dni('99999');
 
 console.log(completeDni);
