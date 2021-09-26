@@ -1,0 +1,3174 @@
+[
+    {
+        "country": "Afghanistan[1]",
+        "prefix": "93",
+        "prefix_mobile": [
+            "70",
+            "71",
+            "72",
+            "73",
+            "74",
+            "75",
+            "24",
+            "77",
+            "78",
+            "79"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Åland Islands",
+        "prefix": "358",
+        "prefix_mobile": [
+            "457"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Albania[2]",
+        "prefix": "355",
+        "prefix_mobile": [
+            "67",
+            "68",
+            "69"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Algeria",
+        "prefix": "213",
+        "prefix_mobile": [
+            "5",
+            "6",
+            "7"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "American Samoa",
+        "prefix": "1",
+        "prefix_mobile": [
+            "684"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Andorra",
+        "prefix": "376",
+        "prefix_mobile": [
+            "3"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Angola",
+        "prefix": "244",
+        "prefix_mobile": [
+            "91",
+            "92",
+            "93"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Anguilla",
+        "prefix": "1",
+        "prefix_mobile": [
+            "264 772"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "prefix": "1",
+        "prefix_mobile": [
+            "268 7xx"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Argentina",
+        "prefix": "54",
+        "prefix_mobile": [
+            "9/15"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Armenia",
+        "prefix": "374",
+        "prefix_mobile": [
+            "55",
+            "95",
+            "41",
+            "44",
+            "77",
+            "93",
+            "94",
+            "98",
+            "91",
+            "99",
+            "43",
+            "97"
+        ],
+        "size": "6"
+    },
+    {
+        "country": "Aruba",
+        "prefix": "297",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Ascension Island",
+        "prefix": "247",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Australia",
+        "prefix": "61",
+        "prefix_mobile": [
+            "4"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Australian Antarctic Territory",
+        "prefix": "672",
+        "prefix_mobile": [
+            "1x"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Austria",
+        "prefix": "43",
+        "prefix_mobile": [
+            "650",
+            "660",
+            "664",
+            "676",
+            "680",
+            "677",
+            "681",
+            "688",
+            "699"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Azerbaijan",
+        "prefix": "994",
+        "prefix_mobile": [
+            "41",
+            "50",
+            "51",
+            "55",
+            "70",
+            "77",
+            "99"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Bahamas",
+        "prefix": "1",
+        "prefix_mobile": [
+            "242 35x",
+            "242 45x",
+            "242 55x"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Bahrain",
+        "prefix": "973",
+        "prefix_mobile": [
+            "31",
+            "322",
+            "33",
+            "340",
+            "341",
+            "343",
+            "344",
+            "345",
+            "353",
+            "355",
+            "36",
+            "377",
+            "383",
+            "384",
+            "388",
+            "39",
+            "663",
+            "666",
+            "669"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Bangladesh",
+        "prefix": "880",
+        "prefix_mobile": [
+            "13xx",
+            "14xx",
+            "15xx",
+            "16xx",
+            "17xx",
+            "18xx",
+            "19xx"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Barbados",
+        "prefix": "1",
+        "prefix_mobile": [
+            "246",
+            "Digicel",
+            "LIME",
+            "Sunbeach"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Belarus",
+        "prefix": "375",
+        "prefix_mobile": [
+            "25",
+            "29 1",
+            "29 2",
+            "29 3",
+            "29 4",
+            "29 5",
+            "29 6",
+            "29 7",
+            "29 8",
+            "29 9",
+            "33",
+            "44"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Belgium",
+        "prefix": "32",
+        "prefix_mobile": [
+            "456",
+            "47x",
+            "48x",
+            "49x"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Belize",
+        "prefix": "501",
+        "prefix_mobile": [
+            "6"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Benin",
+        "prefix": "229",
+        "prefix_mobile": [
+            "9x"
+        ],
+        "size": "6to 9"
+    },
+    {
+        "country": "Bermuda",
+        "prefix": "1",
+        "prefix_mobile": [
+            "441"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Bhutan",
+        "prefix": "975",
+        "prefix_mobile": [
+            "17"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Bolivia",
+        "prefix": "591",
+        "prefix_mobile": [
+            "6",
+            "7"
+        ],
+        "size": "[3]"
+    },
+    {
+        "country": "Bonaire",
+        "prefix": "599",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Bosnia and Herzegovina (Bosnia-Herzegovina)",
+        "prefix": "387",
+        "prefix_mobile": [
+            "60",
+            "69",
+            "62",
+            "63",
+            "64",
+            "65",
+            "66"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Botswana",
+        "prefix": "267",
+        "prefix_mobile": [
+            "7"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Brazil",
+        "prefix": "55",
+        "prefix_mobile": [
+            "xx 6",
+            "xx 7",
+            "xx 8",
+            "xx 9"
+        ],
+        "size": "11"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "prefix": "246",
+        "prefix_mobile": [
+            "387"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "British Virgin Islands",
+        "prefix": "1",
+        "prefix_mobile": [
+            "284"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Brunei",
+        "prefix": "673",
+        "prefix_mobile": [
+            "8x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Bulgaria",
+        "prefix": "359",
+        "prefix_mobile": [
+            "48",
+            "87",
+            "88",
+            "89",
+            "988"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Burkina Faso",
+        "prefix": "226",
+        "prefix_mobile": [
+            "70",
+            "71",
+            "72",
+            "74",
+            "75",
+            "77",
+            "78",
+            "79"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Burma",
+        "prefix": "95",
+        "prefix_mobile": [],
+        "size": ""
+    },
+    {
+        "country": "Burundi",
+        "prefix": "257",
+        "prefix_mobile": [
+            "7x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Cambodia",
+        "prefix": "855",
+        "prefix_mobile": [
+            "92",
+            "12",
+            "11",
+            "76",
+            "77",
+            "99",
+            "10",
+            "15",
+            "16",
+            "69",
+            "70",
+            "81",
+            "86",
+            "87",
+            "93",
+            "96",
+            "98"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Cameroon",
+        "prefix": "237",
+        "prefix_mobile": [
+            "7",
+            "9"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Canada",
+        "prefix": "1",
+        "prefix_mobile": [
+            "No clear distinction between land and cell numbers.\nArea code structure: N-X-Y\nN is not 0 or 1\nX is not 9\nX ≠ Y"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Canary Islands",
+        "prefix": "34",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Cape Verde",
+        "prefix": "238",
+        "prefix_mobile": [
+            "9"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Cayman Islands",
+        "prefix": "1",
+        "prefix_mobile": [
+            "345"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Central African Republic",
+        "prefix": "236",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Ceuta",
+        "prefix": "34",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Chad",
+        "prefix": "235",
+        "prefix_mobile": [
+            "66",
+            "63",
+            "65",
+            "99",
+            "95",
+            "93",
+            "90",
+            "77"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Chagos Islands",
+        "prefix": "246",
+        "prefix_mobile": [
+            "387"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Chile",
+        "prefix": "56",
+        "prefix_mobile": [
+            "9"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "People's Republic of China",
+        "prefix": "86",
+        "prefix_mobile": [
+            "13x",
+            "140-146,148",
+            "145, 147, 149",
+            "15x",
+            "161-162, 164-167",
+            "17x (except 179)",
+            "18x",
+            "19x"
+        ],
+        "size": "11"
+    },
+    {
+        "country": "Christmas Island",
+        "prefix": "61",
+        "prefix_mobile": [
+            "8 9164"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "prefix": "61",
+        "prefix_mobile": [
+            "8 9162"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Colombia",
+        "prefix": "57",
+        "prefix_mobile": [
+            "30x",
+            "310",
+            "311",
+            "312",
+            "313",
+            "314",
+            "315",
+            "316",
+            "317",
+            "318",
+            "319",
+            "32x",
+            "350, 351"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Comoros",
+        "prefix": "269",
+        "prefix_mobile": [
+            "3"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Republic of Congo",
+        "prefix": "242",
+        "prefix_mobile": [
+            "4",
+            "5",
+            "6"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Democratic Republic of Congo",
+        "prefix": "243",
+        "prefix_mobile": [
+            "22",
+            "78",
+            "81",
+            "82",
+            "83",
+            "84",
+            "85",
+            "86",
+            "88",
+            "89",
+            "90",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98",
+            "99"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Cook Islands",
+        "prefix": "682",
+        "prefix_mobile": [
+            "5x",
+            "7x"
+        ],
+        "size": "5"
+    },
+    {
+        "country": "Costa Rica",
+        "prefix": "506",
+        "prefix_mobile": [
+            "6",
+            "7",
+            "8"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Croatia",
+        "prefix": "385",
+        "prefix_mobile": [
+            "91",
+            "92",
+            "95",
+            "97",
+            "98",
+            "99"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Cuba",
+        "prefix": "53",
+        "prefix_mobile": [
+            "5"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Curaçao",
+        "prefix": "599",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Curaçao and the Caribbean Netherlands",
+        "prefix": "599",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Cyprus",
+        "prefix": "357",
+        "prefix_mobile": [
+            "94",
+            "95",
+            "96",
+            "97",
+            "99"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Czech Republic",
+        "prefix": "420",
+        "prefix_mobile": [
+            "601",
+            "602",
+            "603",
+            "604",
+            "605",
+            "606",
+            "607",
+            "608",
+            "702",
+            "72x",
+            "73x",
+            "77x",
+            "790"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Denmark",
+        "prefix": "45",
+        "prefix_mobile": [
+            "2x",
+            "30",
+            "31",
+            "40",
+            "41",
+            "42",
+            "50",
+            "51",
+            "52",
+            "53",
+            "60",
+            "61",
+            "71",
+            "81"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Diego Garcia",
+        "prefix": "246",
+        "prefix_mobile": [
+            "387"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Djibouti",
+        "prefix": "253",
+        "prefix_mobile": [
+            "8"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Dominica",
+        "prefix": "1",
+        "prefix_mobile": [
+            "767 2xx"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Dominican Republic",
+        "prefix": "1",
+        "prefix_mobile": [
+            "809",
+            "829",
+            "849"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "East Timor",
+        "prefix": "670",
+        "prefix_mobile": [
+            "77",
+            "78"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Easter Island",
+        "prefix": "56",
+        "prefix_mobile": [
+            "32"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Ecuador",
+        "prefix": "593",
+        "prefix_mobile": [
+            "8",
+            "9"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Egypt",
+        "prefix": "20",
+        "prefix_mobile": [
+            "10",
+            "11",
+            "12",
+            "15"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "El Salvador",
+        "prefix": "503",
+        "prefix_mobile": [
+            "6",
+            "7"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "England",
+        "prefix": "44",
+        "prefix_mobile": [],
+        "size": "10"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "prefix": "240",
+        "prefix_mobile": [
+            "2",
+            "7"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Eritrea",
+        "prefix": "291",
+        "prefix_mobile": [
+            "7"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Estonia",
+        "prefix": "372",
+        "prefix_mobile": [
+            "5x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Ethiopia",
+        "prefix": "251",
+        "prefix_mobile": [
+            "9X"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Eswatini",
+        "prefix": "268",
+        "prefix_mobile": [
+            "7"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Falkland Islands",
+        "prefix": "500",
+        "prefix_mobile": [
+            "5",
+            "6"
+        ],
+        "size": "5"
+    },
+    {
+        "country": "Faroe Islands",
+        "prefix": "298",
+        "prefix_mobile": [
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "5x",
+            "71",
+            "72",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98",
+            "99"
+        ],
+        "size": "5"
+    },
+    {
+        "country": "Federated States of Micronesia",
+        "prefix": "691",
+        "prefix_mobile": [
+            "92",
+            "93",
+            "95",
+            "97"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Fiji",
+        "prefix": "679",
+        "prefix_mobile": [
+            "3",
+            "7",
+            "9"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Finland",
+        "prefix": "358",
+        "prefix_mobile": [
+            "4x",
+            "457",
+            "50",
+            "500"
+        ],
+        "size": ""
+    },
+    {
+        "country": "France",
+        "prefix": "33",
+        "prefix_mobile": [
+            "6",
+            "700",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "French Overseas Departments and Territories",
+        "prefix": "262",
+        "prefix_mobile": [
+            "+508",
+            "+590",
+            "+594",
+            "+596"
+        ],
+        "size": ""
+    },
+    {
+        "country": "French Guiana",
+        "prefix": "594",
+        "prefix_mobile": [
+            "694",
+            "700"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "French Polynesia",
+        "prefix": "689",
+        "prefix_mobile": [
+            "87: Vini89: PMT"
+        ],
+        "size": "6"
+    },
+    {
+        "country": "Gabon",
+        "prefix": "241",
+        "prefix_mobile": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Gambia",
+        "prefix": "220",
+        "prefix_mobile": [
+            "7x",
+            "9x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Georgia",
+        "prefix": "995",
+        "prefix_mobile": [
+            "544",
+            "514",
+            "551",
+            "555",
+            "557",
+            "558",
+            "568",
+            "570",
+            "571",
+            "574",
+            "577",
+            "578",
+            "579",
+            "591",
+            "592",
+            "593",
+            "595",
+            "596",
+            "597",
+            "598",
+            "599"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Germany",
+        "prefix": "49",
+        "prefix_mobile": [
+            "151x",
+            "152x",
+            "155x",
+            "157x",
+            "159x",
+            "160",
+            "162",
+            "163",
+            "170",
+            "171",
+            "172",
+            "173",
+            "174",
+            "175",
+            "176",
+            "177",
+            "178",
+            "179"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Ghana",
+        "prefix": "233",
+        "prefix_mobile": [
+            "20",
+            "50",
+            "23",
+            "24",
+            "54",
+            "55",
+            "59",
+            "26",
+            "56",
+            "27",
+            "57",
+            "28"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Gibraltar",
+        "prefix": "350",
+        "prefix_mobile": [
+            "58x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Greece",
+        "prefix": "30",
+        "prefix_mobile": [
+            "2",
+            "1",
+            "690",
+            "693",
+            "694",
+            "695",
+            "697",
+            "698",
+            "699"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Greenland",
+        "prefix": "299",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": "6"
+    },
+    {
+        "country": "Grenada",
+        "prefix": "1",
+        "prefix_mobile": [
+            "473 41x"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Guadeloupe",
+        "prefix": "590",
+        "prefix_mobile": [
+            "690",
+            "700"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Guam",
+        "prefix": "1",
+        "prefix_mobile": [
+            "671"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Guatemala",
+        "prefix": "502",
+        "prefix_mobile": [
+            "231",
+            "2324",
+            "2326",
+            "2327",
+            "2328",
+            "2329",
+            "2428",
+            "2429",
+            "30",
+            "310",
+            "311",
+            "3120-3128",
+            "4476-4479",
+            "448",
+            "449",
+            "45",
+            "46",
+            "470-476",
+            "4773-4779",
+            "478",
+            "479",
+            "480",
+            "481",
+            "4822-4829",
+            "483-489",
+            "49",
+            "4x",
+            "5x"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Guernsey",
+        "prefix": "44",
+        "prefix_mobile": [],
+        "size": "10"
+    },
+    {
+        "country": "Guinea",
+        "prefix": "224",
+        "prefix_mobile": [
+            "6"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Guinea-Bissau",
+        "prefix": "245",
+        "prefix_mobile": [
+            "6",
+            "7"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Guyana",
+        "prefix": "592",
+        "prefix_mobile": [
+            "6"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Haiti[5]",
+        "prefix": "509",
+        "prefix_mobile": [
+            "34",
+            "39",
+            "35",
+            "36",
+            "37",
+            "38",
+            "4x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Hawaii",
+        "prefix": "1",
+        "prefix_mobile": [
+            "808"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Honduras",
+        "prefix": "504",
+        "prefix_mobile": [
+            "3",
+            "7",
+            "8",
+            "9"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Hong Kong",
+        "prefix": "852",
+        "prefix_mobile": [
+            "460-469",
+            "510-579",
+            "590-599",
+            "601-699",
+            "701-709",
+            "840-849",
+            "901-910",
+            "912-989"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Hungary",
+        "prefix": "36",
+        "prefix_mobile": [
+            "20",
+            "30",
+            "31",
+            "38",
+            "50",
+            "60",
+            "70"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Iceland",
+        "prefix": "354",
+        "prefix_mobile": [
+            "6"
+        ],
+        "size": ""
+    },
+    {
+        "country": "India",
+        "prefix": "91",
+        "prefix_mobile": [
+            "6xx",
+            "7xx",
+            "8xx",
+            "90x",
+            "91x",
+            "92x",
+            "93x",
+            "94x",
+            "95x",
+            "96x",
+            "97x",
+            "98x",
+            "99x"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Indonesia",
+        "prefix": "62",
+        "prefix_mobile": [
+            "811",
+            "812",
+            "813",
+            "814",
+            "815",
+            "816",
+            "817",
+            "818",
+            "819",
+            "838",
+            "852",
+            "853",
+            "855",
+            "856",
+            "858",
+            "859",
+            "878",
+            "896",
+            "897",
+            "898",
+            "899"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Iran",
+        "prefix": "98",
+        "prefix_mobile": [
+            "901",
+            "902",
+            "903",
+            "91x",
+            "920",
+            "921",
+            "922",
+            "930",
+            "931",
+            "932",
+            "933",
+            "934",
+            "935",
+            "936",
+            "937",
+            "938",
+            "939",
+            "990",
+            "999 9"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Iraq",
+        "prefix": "964",
+        "prefix_mobile": [
+            "73x",
+            "74x",
+            "75x",
+            "76x",
+            "77x",
+            "78x",
+            "79x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Ireland",
+        "prefix": "353",
+        "prefix_mobile": [
+            "8x",
+            "83",
+            "85",
+            "86",
+            "87",
+            "89"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Isle of Man",
+        "prefix": "44",
+        "prefix_mobile": [],
+        "size": "10"
+    },
+    {
+        "country": "Israel",
+        "prefix": "972",
+        "prefix_mobile": [
+            "50",
+            "52",
+            "53",
+            "54",
+            "5522 or 5523",
+            "556",
+            "5570 or 5571",
+            "558",
+            "559",
+            "58"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Italy",
+        "prefix": "39",
+        "prefix_mobile": [
+            "310",
+            "31100",
+            "31101",
+            "31105",
+            "313",
+            "319",
+            "320",
+            "322",
+            "323",
+            "324",
+            "327",
+            "328",
+            "329",
+            "330",
+            "331",
+            "333",
+            "334",
+            "335",
+            "336",
+            "337",
+            "338",
+            "339",
+            "340",
+            "341",
+            "342",
+            "343",
+            "344",
+            "345",
+            "346",
+            "347",
+            "348",
+            "349",
+            "3505",
+            "3510",
+            "3512",
+            "360",
+            "361",
+            "362",
+            "363",
+            "366",
+            "368",
+            "370",
+            "3710",
+            "3711",
+            "373",
+            "377",
+            "380",
+            "381",
+            "382",
+            "383",
+            "385",
+            "388",
+            "389",
+            "390",
+            "391",
+            "392",
+            "393",
+            "397"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Ivory Coast",
+        "prefix": "225",
+        "prefix_mobile": [
+            "0x",
+            "6x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Jamaica",
+        "prefix": "1",
+        "prefix_mobile": [
+            "876"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Jan Mayen",
+        "prefix": "47",
+        "prefix_mobile": [
+            "79"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Japan[6]",
+        "prefix": "81",
+        "prefix_mobile": [
+            "60",
+            "70",
+            "80",
+            "90"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Jersey",
+        "prefix": "44",
+        "prefix_mobile": [],
+        "size": "10"
+    },
+    {
+        "country": "Jordan",
+        "prefix": "962",
+        "prefix_mobile": [
+            "77",
+            "79",
+            "78"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Kazakhstan",
+        "prefix": "7",
+        "prefix_mobile": [
+            "700",
+            "708",
+            "701",
+            "702",
+            "775",
+            "778",
+            "705",
+            "771",
+            "776",
+            "777",
+            "707",
+            "747"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Kenya",
+        "prefix": "254",
+        "prefix_mobile": [
+            "10x",
+            "11x",
+            "70x",
+            "71x",
+            "72x",
+            "73x",
+            "74x",
+            "75x",
+            "763",
+            "77x",
+            "78x"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Kiribati",
+        "prefix": "686",
+        "prefix_mobile": [
+            "63",
+            "7x"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Kosovo",
+        "prefix": "383",
+        "prefix_mobile": [
+            "44",
+            "45",
+            "49"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Kuwait",
+        "prefix": "965",
+        "prefix_mobile": [
+            "5",
+            "6",
+            "9"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "prefix": "996",
+        "prefix_mobile": [
+            "5xx"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Laos",
+        "prefix": "856",
+        "prefix_mobile": [
+            "20"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Latvia",
+        "prefix": "371",
+        "prefix_mobile": [
+            "2xx"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Lebanon",
+        "prefix": "961",
+        "prefix_mobile": [
+            "3",
+            "70",
+            "71",
+            "76"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Lesotho",
+        "prefix": "266",
+        "prefix_mobile": [
+            "58",
+            "6x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Liberia",
+        "prefix": "231",
+        "prefix_mobile": [
+            "46",
+            "47",
+            "5",
+            "64",
+            "65",
+            "7"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Libya",
+        "prefix": "218",
+        "prefix_mobile": [
+            "91",
+            "92",
+            "94"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Liechtenstein",
+        "prefix": "423",
+        "prefix_mobile": [
+            "7"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Lithuania",
+        "prefix": "370",
+        "prefix_mobile": [
+            "6xx"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Luxembourg",
+        "prefix": "352",
+        "prefix_mobile": [
+            "621",
+            "628",
+            "661",
+            "668",
+            "691",
+            "698"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Macau",
+        "prefix": "853",
+        "prefix_mobile": [
+            "6"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Madagascar",
+        "prefix": "261",
+        "prefix_mobile": [
+            "3x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Madeira",
+        "prefix": "351",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Malawi",
+        "prefix": "265",
+        "prefix_mobile": [
+            "8",
+            "9"
+        ],
+        "size": "NM"
+    },
+    {
+        "country": "Malaysia",
+        "prefix": "60",
+        "prefix_mobile": [
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17",
+            "18",
+            "19"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Maldives",
+        "prefix": "960",
+        "prefix_mobile": [
+            "7",
+            "9"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Mali",
+        "prefix": "223",
+        "prefix_mobile": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Malta",
+        "prefix": "356",
+        "prefix_mobile": [
+            "77",
+            "79",
+            "98",
+            "99"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Marshall Islands",
+        "prefix": "692",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Martinique",
+        "prefix": "596",
+        "prefix_mobile": [
+            "696",
+            "700"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Mauritania",
+        "prefix": "222",
+        "prefix_mobile": [
+            "6"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Mauritius",
+        "prefix": "230",
+        "prefix_mobile": [
+            "57",
+            "58",
+            "59",
+            "54"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Mayotte",
+        "prefix": "262",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Melilla",
+        "prefix": "34",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Mexico",
+        "prefix": "52",
+        "prefix_mobile": [
+            "1"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Moldova",
+        "prefix": "373",
+        "prefix_mobile": [
+            "60xxxxxx",
+            "65xxxxxx",
+            "67xxxxxx",
+            "68xxxxxx",
+            "69xxxxxx",
+            "78xxxxxx",
+            "79xxxxxx"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Monaco",
+        "prefix": "377",
+        "prefix_mobile": [
+            "4",
+            "6"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Mongolia",
+        "prefix": "976",
+        "prefix_mobile": [
+            "70xxxxxx",
+            "88xxxxxx",
+            "89xxxxxx",
+            "91xxxxxx",
+            "93xxxxxx",
+            "94xxxxxx",
+            "95xxxxxx",
+            "96xxxxxx",
+            "98xxxxxx",
+            "99xxxxxx"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Montenegro",
+        "prefix": "382",
+        "prefix_mobile": [
+            "60",
+            "63",
+            "66",
+            "67",
+            "68",
+            "69"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Montserrat",
+        "prefix": "1",
+        "prefix_mobile": [
+            "664"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Morocco",
+        "prefix": "212",
+        "prefix_mobile": [
+            "6x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Mozambique",
+        "prefix": "258",
+        "prefix_mobile": [
+            "82\n83\n84\n85\n86\n87"
+        ],
+        "size": "12"
+    },
+    {
+        "country": "Myanmar",
+        "prefix": "95",
+        "prefix_mobile": [
+            "92xxxxxx",
+            "925xxxxxxx",
+            "926xxxxxxx",
+            "943xxxxxx",
+            "94xxxxxxxx",
+            "944xxxxxx",
+            "95xxxxxx",
+            "96xxxxxx",
+            "973xxxxxx",
+            "991xxxxxx",
+            "93xxxxxxx",
+            "996xxxxxxx",
+            "997xxxxxxx",
+            "977xxxxxxx",
+            "978xxxxxxx",
+            "979xxxxxxx"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Artsakh",
+        "prefix": "374",
+        "prefix_mobile": [
+            "97"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Namibia",
+        "prefix": "264",
+        "prefix_mobile": [
+            "60",
+            "81",
+            "85"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Nauru",
+        "prefix": "674",
+        "prefix_mobile": [
+            "555"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Nepal",
+        "prefix": "977",
+        "prefix_mobile": [
+            "98xxxxxxxx"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Netherlands",
+        "prefix": "31",
+        "prefix_mobile": [
+            "6"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "New Caledonia",
+        "prefix": "687",
+        "prefix_mobile": [
+            "7",
+            "8",
+            "9"
+        ],
+        "size": "6"
+    },
+    {
+        "country": "New Zealand",
+        "prefix": "64",
+        "prefix_mobile": [
+            "20",
+            "21",
+            "22",
+            "24",
+            "25",
+            "27",
+            "280",
+            "28",
+            "283",
+            "28",
+            "29"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Nicaragua",
+        "prefix": "505",
+        "prefix_mobile": [
+            "8"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Niger",
+        "prefix": "227",
+        "prefix_mobile": [
+            "9"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Nigeria",
+        "prefix": "234",
+        "prefix_mobile": [
+            "804",
+            "805",
+            "803",
+            "802",
+            "809"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Niue",
+        "prefix": "683",
+        "prefix_mobile": [
+            "1",
+            "3",
+            "4"
+        ],
+        "size": "4"
+    },
+    {
+        "country": "Norfolk Island",
+        "prefix": "672",
+        "prefix_mobile": [
+            "38"
+        ],
+        "size": "6"
+    },
+    {
+        "country": "North Korea",
+        "prefix": "850",
+        "prefix_mobile": [
+            "?"
+        ],
+        "size": ""
+    },
+    {
+        "country": "North Macedonia",
+        "prefix": "389",
+        "prefix_mobile": [
+            "70",
+            "71",
+            "72",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Northern Cyprus",
+        "prefix": "90",
+        "prefix_mobile": [
+            "533",
+            "542"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Northern Ireland",
+        "prefix": "44",
+        "prefix_mobile": [],
+        "size": "10"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "prefix": "1",
+        "prefix_mobile": [
+            "670"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Norway",
+        "prefix": "47",
+        "prefix_mobile": [
+            "4",
+            "59",
+            "9"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Oman",
+        "prefix": "968",
+        "prefix_mobile": [
+            "91",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98",
+            "99"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Pakistan",
+        "prefix": "92",
+        "prefix_mobile": [
+            "3xx MOBILE CODE",
+            "30x",
+            "31x",
+            "32x",
+            "33x",
+            "34x"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Palau",
+        "prefix": "680",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Palestine, State of",
+        "prefix": "970 / +972",
+        "prefix_mobile": [
+            "56",
+            "59"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Panama",
+        "prefix": "507",
+        "prefix_mobile": [
+            "6"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Papua New Guinea",
+        "prefix": "675",
+        "prefix_mobile": [
+            "68",
+            "69"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Paraguay",
+        "prefix": "595",
+        "prefix_mobile": [
+            "961",
+            "963",
+            "971",
+            "972",
+            "973",
+            "975",
+            "981",
+            "982",
+            "983",
+            "984",
+            "985",
+            "991",
+            "992",
+            "993",
+            "995"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Peru",
+        "prefix": "51",
+        "prefix_mobile": [
+            "9"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Philippines",
+        "prefix": "63",
+        "prefix_mobile": [
+            "973",
+            "974",
+            "905",
+            "906",
+            "977",
+            "915",
+            "916",
+            "926",
+            "927",
+            "935",
+            "936",
+            "937",
+            "996",
+            "997",
+            "917",
+            "979",
+            "920",
+            "930",
+            "938",
+            "939",
+            "907",
+            "908",
+            "909",
+            "910",
+            "912",
+            "919",
+            "921",
+            "928",
+            "929",
+            "947",
+            "948",
+            "949",
+            "989",
+            "918",
+            "999",
+            "922",
+            "923",
+            "932",
+            "933",
+            "942",
+            "943"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Pitcairn Islands",
+        "prefix": "64",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Plazas de soberanía",
+        "prefix": "34",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Poland",
+        "prefix": "48",
+        "prefix_mobile": [
+            "50x",
+            "45x",
+            "51x",
+            "53x",
+            "57x",
+            "60x",
+            "66x",
+            "69x",
+            "72x",
+            "73x",
+            "78x",
+            "79x",
+            "88x"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Portugal",
+        "prefix": "351",
+        "prefix_mobile": [
+            "91",
+            "921",
+            "922",
+            "924",
+            "925",
+            "926",
+            "927",
+            "9290",
+            "9291",
+            "9292",
+            "9293",
+            "9294",
+            "93",
+            "96"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Príncipe",
+        "prefix": "239",
+        "prefix_mobile": [
+            "90"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Puerto Rico",
+        "prefix": "1",
+        "prefix_mobile": [
+            "787",
+            "939"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Qatar",
+        "prefix": "974",
+        "prefix_mobile": [
+            "33",
+            "55",
+            "66",
+            "77"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Réunion",
+        "prefix": "262",
+        "prefix_mobile": [
+            "692 / 693",
+            "700"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Romania",
+        "prefix": "40",
+        "prefix_mobile": [
+            "70x",
+            "711",
+            "72x",
+            "73x",
+            "74x",
+            "75x",
+            "76x",
+            "77x",
+            "78x"
+        ],
+        "size": "107]"
+    },
+    {
+        "country": "Russia (Russian Federation)",
+        "prefix": "7",
+        "prefix_mobile": [
+            "901",
+            "902",
+            "903",
+            "904",
+            "905",
+            "906",
+            "908",
+            "909",
+            "91x",
+            "92x",
+            "93x",
+            "950",
+            "951",
+            "952",
+            "953",
+            "96x",
+            "980",
+            "983",
+            "986"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Rwanda",
+        "prefix": "250",
+        "prefix_mobile": [
+            "07",
+            "08"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Saba",
+        "prefix": "599",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Saint Barthélemy",
+        "prefix": "590",
+        "prefix_mobile": [
+            "6"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Saint Helena and Tristan da Cunha (not Ascenscion)",
+        "prefix": "290",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": "4"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "prefix": "1",
+        "prefix_mobile": [
+            "869"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Saint Lucia",
+        "prefix": "1",
+        "prefix_mobile": [
+            "758"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Collectivity of Saint Martin",
+        "prefix": "590",
+        "prefix_mobile": [
+            "6"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "prefix": "508",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "prefix": "1",
+        "prefix_mobile": [
+            "784"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Samoa",
+        "prefix": "685",
+        "prefix_mobile": [
+            "77"
+        ],
+        "size": "5"
+    },
+    {
+        "country": "San Marino",
+        "prefix": "378",
+        "prefix_mobile": [
+            "66"
+        ],
+        "size": ""
+    },
+    {
+        "country": "São Tomé and Príncipe",
+        "prefix": "239",
+        "prefix_mobile": [
+            "90"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Saudi Arabia",
+        "prefix": "966",
+        "prefix_mobile": [
+            "50",
+            "51",
+            "53",
+            "54",
+            "55",
+            "56",
+            "57",
+            "58",
+            "59"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Scotland",
+        "prefix": "44",
+        "prefix_mobile": [],
+        "size": "10"
+    },
+    {
+        "country": "Senegal",
+        "prefix": "221",
+        "prefix_mobile": [
+            "76",
+            "77"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Serbia",
+        "prefix": "381",
+        "prefix_mobile": [
+            "60",
+            "61",
+            "62",
+            "63",
+            "64",
+            "65",
+            "66",
+            "677",
+            "68",
+            "69"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Seychelles",
+        "prefix": "248",
+        "prefix_mobile": [
+            "5",
+            "7"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Sierra Leone",
+        "prefix": "232",
+        "prefix_mobile": [
+            "23",
+            "30",
+            "33",
+            "7x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Singapore",
+        "prefix": "65",
+        "prefix_mobile": [
+            "8",
+            "9"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Sint Eustatius",
+        "prefix": "599",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Sint Maarten",
+        "prefix": "1",
+        "prefix_mobile": [
+            "721"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Slovakia (Slovak Republic)",
+        "prefix": "421",
+        "prefix_mobile": [
+            "901",
+            "902",
+            "903",
+            "904",
+            "905",
+            "906",
+            "907",
+            "908",
+            "910",
+            "911",
+            "912",
+            "914",
+            "915",
+            "916",
+            "917",
+            "918",
+            "940",
+            "944",
+            "948",
+            "949",
+            "950",
+            "951"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Slovenia",
+        "prefix": "386",
+        "prefix_mobile": [
+            "20",
+            "21",
+            "30",
+            "31",
+            "40",
+            "41",
+            "49",
+            "50",
+            "51",
+            "60",
+            "61",
+            "64",
+            "70",
+            "71"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Solomon Islands",
+        "prefix": "677",
+        "prefix_mobile": [
+            "74",
+            "75"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Somalia",
+        "prefix": "252",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": "7or 8"
+    },
+    {
+        "country": "South Africa",
+        "prefix": "27",
+        "prefix_mobile": [
+            "60",
+            "710",
+            "711",
+            "712",
+            "713",
+            "714",
+            "715",
+            "716",
+            "717",
+            "718",
+            "719",
+            "72",
+            "73",
+            "74",
+            "741",
+            "76",
+            "78",
+            "79",
+            "811",
+            "812",
+            "813",
+            "814",
+            "82",
+            "83",
+            "84"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "prefix": "500",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "South Korea",
+        "prefix": "82",
+        "prefix_mobile": [
+            "10",
+            "11",
+            "16",
+            "17",
+            "18",
+            "19"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "South Ossetia",
+        "prefix": "995",
+        "prefix_mobile": [
+            "34x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "South Sudan",
+        "prefix": "211",
+        "prefix_mobile": [
+            "9x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Spain",
+        "prefix": "34",
+        "prefix_mobile": [
+            "6",
+            "7"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Sri Lanka",
+        "prefix": "94",
+        "prefix_mobile": [
+            "70",
+            "71",
+            "72",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Sudan",
+        "prefix": "249",
+        "prefix_mobile": [
+            "9"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Suriname",
+        "prefix": "597",
+        "prefix_mobile": [
+            "8"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Svalbard",
+        "prefix": "47",
+        "prefix_mobile": [
+            "79"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Sweden",
+        "prefix": "46",
+        "prefix_mobile": [
+            "70",
+            "71 0",
+            "72",
+            "73 00",
+            "73 01",
+            "73 02 - 09",
+            "73 10",
+            "73 11",
+            "73 12",
+            "73 13",
+            "73 14 - 15",
+            "73 16",
+            "73 170",
+            "73 171 - 179",
+            "73 18",
+            "73 19",
+            "73 20",
+            "73 21 - 22",
+            "73 23",
+            "73 24 - 26",
+            "73 27",
+            "73 28",
+            "73 29",
+            "73 3",
+            "73 40 - 44",
+            "73 450 - 454",
+            "73 455",
+            "73 456",
+            "73 457 - 459",
+            "73 46 - 49",
+            "73 50 - 54",
+            "73 55 - 59",
+            "73 6",
+            "73 70 - 79",
+            "73 80 - 84",
+            "73 85",
+            "73 86",
+            "73 87",
+            "73 88",
+            "73 89",
+            "73 9",
+            "76",
+            "79"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Switzerland",
+        "prefix": "41",
+        "prefix_mobile": [
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Syria",
+        "prefix": "963",
+        "prefix_mobile": [
+            "93",
+            "98",
+            "99",
+            "94",
+            "95",
+            "96"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Taiwan",
+        "prefix": "886",
+        "prefix_mobile": [
+            "9"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Tajikistan",
+        "prefix": "992",
+        "prefix_mobile": [
+            "9",
+            "90",
+            "910",
+            "911",
+            "912",
+            "913",
+            "914",
+            "915",
+            "916",
+            "917",
+            "918",
+            "919",
+            "92",
+            "93",
+            "95",
+            "96",
+            "97",
+            "98"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Tanzania",
+        "prefix": "255",
+        "prefix_mobile": [
+            "74x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Thailand",
+        "prefix": "66",
+        "prefix_mobile": [
+            "6",
+            "8",
+            "9"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Togo",
+        "prefix": "228",
+        "prefix_mobile": [
+            "90",
+            "91",
+            "92",
+            "97",
+            "98",
+            "99"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Tokelau",
+        "prefix": "690",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Tonga",
+        "prefix": "676",
+        "prefix_mobile": [
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "87",
+            "88",
+            "89"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "prefix": "1",
+        "prefix_mobile": [
+            "868"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Tristan da Cunha",
+        "prefix": "290",
+        "prefix_mobile": [
+            "8"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Tunisia",
+        "prefix": "216",
+        "prefix_mobile": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "9"
+        ],
+        "size": "8"
+    },
+    {
+        "country": "Turkey",
+        "prefix": "90",
+        "prefix_mobile": [
+            "50",
+            "53",
+            "54",
+            "55"
+        ],
+        "size": "11"
+    },
+    {
+        "country": "Turkmenistan",
+        "prefix": "993",
+        "prefix_mobile": [
+            "65",
+            "66",
+            "67"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "prefix": "1",
+        "prefix_mobile": [
+            "649"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Tuvalu",
+        "prefix": "688",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Uganda[10]",
+        "prefix": "256",
+        "prefix_mobile": [
+            "2,3,4",
+            "720",
+            "730",
+            "740 –744",
+            "750 –759",
+            "760 –764",
+            "770 –779",
+            "780 –789",
+            "790 –794"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Ukraine",
+        "prefix": "380",
+        "prefix_mobile": [
+            "39",
+            "50",
+            "63",
+            "66",
+            "67",
+            "68",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98",
+            "99"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "United Arab Emirates",
+        "prefix": "971",
+        "prefix_mobile": [
+            "50",
+            "52",
+            "54",
+            "55",
+            "56",
+            "58"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "United Kingdom[11]",
+        "prefix": "44",
+        "prefix_mobile": [
+            "71xx",
+            "72xx",
+            "73xx",
+            "74xx",
+            "75xx",
+            "7624",
+            "77xx",
+            "78xx",
+            "79xx"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "United States (USA)",
+        "prefix": "1",
+        "prefix_mobile": [
+            "No clear distinction between land and cell numbers.\nArea code structure: N-X-Y\nN is not 0 or 1\nX is not 9\nX ≠ Y"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "United States Virgin Islands",
+        "prefix": "1",
+        "prefix_mobile": [
+            "340"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Uruguay",
+        "prefix": "598",
+        "prefix_mobile": [
+            "91",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98",
+            "99"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Uzbekistan",
+        "prefix": "998",
+        "prefix_mobile": [
+            "90",
+            "91",
+            "93",
+            "94",
+            "97",
+            "33"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Vanuatu",
+        "prefix": "678",
+        "prefix_mobile": [
+            "4",
+            "5"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Vatican City",
+        "prefix": "39",
+        "prefix_mobile": [
+            "06 698"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Venezuela",
+        "prefix": "58",
+        "prefix_mobile": [
+            "4xx",
+            "412",
+            "414",
+            "416",
+            "424",
+            "426"
+        ],
+        "size": "7"
+    },
+    {
+        "country": "Vietnam",
+        "prefix": "84",
+        "prefix_mobile": [
+            "3x, 5x, 7x, 8x, 9x"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "U.S. Virgin Islands",
+        "prefix": "1",
+        "prefix_mobile": [
+            "340"
+        ],
+        "size": "10"
+    },
+    {
+        "country": "Wales",
+        "prefix": "44",
+        "prefix_mobile": [],
+        "size": "10"
+    },
+    {
+        "country": "Wallis and Futuna",
+        "prefix": "681",
+        "prefix_mobile": [
+            "??"
+        ],
+        "size": ""
+    },
+    {
+        "country": "5289",
+        "prefix": "",
+        "prefix_mobile": [],
+        "size": ""
+    },
+    {
+        "country": "Yemen",
+        "prefix": "967",
+        "prefix_mobile": [
+            "7x",
+            "70",
+            "71",
+            "73",
+            "77"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "Zambia",
+        "prefix": "260",
+        "prefix_mobile": [
+            "9x"
+        ],
+        "size": ""
+    },
+    {
+        "country": "Zimbabwe",
+        "prefix": "263",
+        "prefix_mobile": [
+            "71",
+            "73",
+            "77"
+        ],
+        "size": "9"
+    },
+    {
+        "country": "",
+        "prefix": "",
+        "prefix_mobile": [],
+        "size": ""
+    }
+]
