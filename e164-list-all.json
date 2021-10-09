@@ -9,7 +9,12 @@
             "77",
             "78",
             "79"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Albania",
@@ -19,7 +24,15 @@
             "67",
             "68",
             "69"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "3",
+                "9"
+            ]
+        }
     },
     {
         "country": "Algeria",
@@ -29,19 +42,41 @@
             "77",
             "78",
             "79"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "American Samoa",
         "prefix": "1 (684)",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Andorra",
         "prefix": "376",
         "prefix_mobile": [
             "3-4"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "6",
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Angola",
@@ -51,7 +86,12 @@
             "92",
             "93",
             "94"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Anguilla",
@@ -65,7 +105,12 @@
             "582",
             "583",
             "584"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Antigua and Barbuda",
@@ -103,12 +148,22 @@
             "786",
             "788",
             "789"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Argentina",
         "prefix": "54",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "10"
+        }
     },
     {
         "country": "Armenia",
@@ -121,7 +176,12 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Aruba",
@@ -135,7 +195,12 @@
             "996",
             "997",
             "998"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Australia",
@@ -200,12 +265,25 @@
             "47",
             "48",
             "49"
-        ]
+        ],
+        "prefix_internacional": "0011",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "4",
+                "15"
+            ]
+        }
     },
     {
         "country": "Australian Territory",
         "prefix": "672",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "6"
+        }
     },
     {
         "country": "Austria",
@@ -221,7 +299,15 @@
             "69982",
             "69988",
             "69989"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "4",
+                "13"
+            ]
+        }
     },
     {
         "country": "Azerbaijan",
@@ -229,7 +315,15 @@
         "prefix_mobile": [
             "50",
             "51"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Bahamas",
@@ -284,7 +378,12 @@
             "557",
             "558",
             "559"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Bahrain",
@@ -303,12 +402,25 @@
             "37",
             "383",
             "384"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Bangladesh",
         "prefix": "880",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "6",
+                "10"
+            ]
+        }
     },
     {
         "country": "Barbados",
@@ -342,12 +454,25 @@
             "83",
             "84",
             "85"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Belarus",
         "prefix": "375",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "810",
+        "prefix_nacional": "8",
+        "digits": {
+            "between": [
+                "9",
+                "10"
+            ]
+        }
     },
     {
         "country": "Belgium",
@@ -372,7 +497,15 @@
             "487",
             "488",
             "489"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Belize",
@@ -388,7 +521,12 @@
             "67",
             "68",
             "69"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Benin",
@@ -409,19 +547,37 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Bermuda",
         "prefix": "1 (441)",
         "prefix_mobile": [
             "3 500, 539, 59, 7"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Bhutan",
         "prefix": "975",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Bolivia",
@@ -442,7 +598,12 @@
             "77",
             "78",
             "79"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Bosnia/Herzegovina",
@@ -461,7 +622,12 @@
             "65",
             "66",
             "67"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Botswana",
@@ -502,7 +668,15 @@
             "769",
             "770",
             "771"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Brazil",
@@ -783,7 +957,12 @@
             "997",
             "998",
             "999"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "10"
+        }
     },
     {
         "country": "British Virgin Islands",
@@ -818,7 +997,12 @@
             "545",
             "546",
             "547"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Brunei",
@@ -844,7 +1028,12 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Bulgaria",
@@ -855,7 +1044,15 @@
             "89",
             "988",
             "989"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "9"
+            ]
+        }
     },
     {
         "country": "Burkina Faso",
@@ -880,12 +1077,22 @@
             "77",
             "78",
             "79"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Burundi",
         "prefix": "257",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Cambodia",
@@ -921,7 +1128,12 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "001, 007",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Cameroon",
@@ -933,7 +1145,12 @@
             "53",
             "55",
             "56"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Cape Verde Islands",
@@ -946,7 +1163,12 @@
             "334",
             "58",
             "59"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Cayman Islands",
@@ -992,12 +1214,22 @@
             "937",
             "938",
             "939"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Central African Rep",
         "prefix": "236",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Chad",
@@ -1010,12 +1242,28 @@
             "228",
             "6",
             "7"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "6",
+                "7"
+            ]
+        }
     },
     {
         "country": "Chile",
         "prefix": "56",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "1YZ0",
+        "prefix_nacional": "1YZ",
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "China",
@@ -1042,7 +1290,15 @@
             "159",
             "188",
             "189"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "5",
+                "12"
+            ]
+        }
     },
     {
         "country": "Colombia",
@@ -1066,12 +1322,25 @@
             "319",
             "320",
             "321"
-        ]
+        ],
+        "prefix_internacional": "009/007/005",
+        "prefix_nacional": "09/07/2005",
+        "digits": {
+            "numbers": [
+                "8",
+                "10"
+            ]
+        }
     },
     {
         "country": "Comoros",
         "prefix": "269",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Congo , Democratic Republic of",
@@ -1091,7 +1360,15 @@
             "95",
             "96",
             "97"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "5",
+                "9"
+            ]
+        }
     },
     {
         "country": "Congo , Republic of",
@@ -1100,7 +1377,15 @@
             "04",
             "5",
             "6"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "6",
+                "7"
+            ]
+        }
     },
     {
         "country": "Cook Islands",
@@ -1115,14 +1400,24 @@
             "56",
             "57",
             "58"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "5"
+        }
     },
     {
         "country": "Costa Rica",
         "prefix": "506",
         "prefix_mobile": [
             "5-8"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Croatia",
@@ -1133,7 +1428,15 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "12"
+            ]
+        }
     },
     {
         "country": "Cuba",
@@ -1161,7 +1464,15 @@
             "7756",
             "7758",
             "7759"
-        ]
+        ],
+        "prefix_internacional": "119",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "6",
+                "8"
+            ]
+        }
     },
     {
         "country": "Cyprus",
@@ -1171,7 +1482,15 @@
             "95",
             "96",
             "97"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "8",
+                "11"
+            ]
+        }
     },
     {
         "country": "Czech Republic",
@@ -1197,26 +1516,49 @@
             "965",
             "966",
             "967"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "4",
+                "12"
+            ]
+        }
     },
     {
         "country": "Denmark",
         "prefix": "45",
         "prefix_mobile": [
             "2 30-31, 3235, 40-42, 50-53, 60-61, 71, 81, 91-93"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Diego Garcia",
         "prefix": "246",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Djibouti",
         "prefix": "253",
         "prefix_mobile": [
             "5-8"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "6"
+        }
     },
     {
         "country": "Dominica",
@@ -1237,7 +1579,12 @@
             "615",
             "616",
             "617"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Dominican Republic",
@@ -1842,7 +2189,10 @@
             "997",
             "998",
             "999"
-        ]
+        ],
+        "prefix_internacional": null,
+        "prefix_nacional": null,
+        "digits": null
     },
     {
         "country": "Ecuador",
@@ -1956,7 +2306,12 @@
             "9997",
             "9998",
             "9999"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Egypt",
@@ -1965,7 +2320,15 @@
             "10",
             "11",
             "12"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "9"
+            ]
+        }
     },
     {
         "country": "El Salvador",
@@ -2067,36 +2430,73 @@
             "797",
             "798",
             "799"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "7",
+                "8",
+                "11"
+            ]
+        }
     },
     {
         "country": "Equatorial Guinea",
         "prefix": "240",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "6"
+        }
     },
     {
         "country": "Eritrea",
         "prefix": "291",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Estonia",
         "prefix": "372",
         "prefix_mobile": [
             "5 80-82"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "7",
+                "10"
+            ]
+        }
     },
     {
         "country": "Ethiopia",
         "prefix": "251",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Falkland Islands",
         "prefix": "500",
         "prefix_mobile": [
             "5-6"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "5"
+        }
     },
     {
         "country": "Faroe Islands",
@@ -2120,7 +2520,12 @@
             "77",
             "78",
             "79"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "6"
+        }
     },
     {
         "country": "Fiji",
@@ -2148,26 +2553,49 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Finland",
         "prefix": "358",
         "prefix_mobile": [
             "4 50"
-        ]
+        ],
+        "prefix_internacional": "00,99X",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "5",
+                "12"
+            ]
+        }
     },
     {
         "country": "France",
         "prefix": "33",
         "prefix_mobile": [
             "6-7"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "French Guiana",
         "prefix": "594",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Gabon",
@@ -2185,7 +2613,15 @@
             "5",
             "6",
             "7"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "6",
+                "7"
+            ]
+        }
     },
     {
         "country": "Gambia",
@@ -2202,7 +2638,12 @@
             "7",
             "8",
             "9"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Georgia",
@@ -2218,7 +2659,12 @@
             "597",
             "598",
             "599"
-        ]
+        ],
+        "prefix_internacional": "8",
+        "prefix_nacional": "8",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Germany",
@@ -2246,7 +2692,15 @@
             "179",
             "700",
             "701"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "6",
+                "13"
+            ]
+        }
     },
     {
         "country": "Ghana",
@@ -2258,7 +2712,15 @@
             "27",
             "28",
             "29"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "5",
+                "9"
+            ]
+        }
     },
     {
         "country": "Gibraltar",
@@ -2267,7 +2729,12 @@
             "56",
             "57",
             "58"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Greece",
@@ -2279,14 +2746,24 @@
             "697",
             "698",
             "699"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "10"
+        }
     },
     {
         "country": "Greenland",
         "prefix": "299",
         "prefix_mobile": [
             "2 4-5"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "6"
+        }
     },
     {
         "country": "Grenada",
@@ -2320,12 +2797,22 @@
             "536",
             "537",
             "538"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Guadeloupe",
         "prefix": "590",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Guatemala",
@@ -2473,7 +2960,12 @@
             "7821",
             "7822",
             "7823"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Guernsey",
@@ -3005,7 +3497,15 @@
             "79987",
             "79988",
             "79989"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "10"
+            ]
+        }
     },
     {
         "country": "Guinea",
@@ -3017,7 +3517,12 @@
             "66",
             "67",
             "78"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Guinea-Bissau",
@@ -3027,7 +3532,12 @@
             "90",
             "91",
             "92"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Guyana",
@@ -3055,7 +3565,12 @@
             "67",
             "68",
             "69"
-        ]
+        ],
+        "prefix_internacional": "001",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Haiti",
@@ -3082,7 +3597,12 @@
             "47",
             "48",
             "49"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Honduras",
@@ -3138,7 +3658,15 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Hong Kong",
@@ -3148,7 +3676,15 @@
             "49",
             "53",
             "54"
-        ]
+        ],
+        "prefix_internacional": "001",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "4, 8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Hungary",
@@ -3156,7 +3692,15 @@
         "prefix_mobile": [
             "30",
             "31"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "6",
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Iceland",
@@ -3208,7 +3752,15 @@
             "87",
             "88",
             "89"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "7",
+                "9"
+            ]
+        }
     },
     {
         "country": "India",
@@ -3459,7 +4011,15 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "10"
+            ]
+        }
     },
     {
         "country": "Indonesia",
@@ -3501,22 +4061,54 @@
             "897",
             "898",
             "899"
-        ]
+        ],
+        "prefix_internacional": "001, 008",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "5",
+                "10"
+            ]
+        }
     },
     {
         "country": "Iran",
         "prefix": "98",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "6",
+                "10"
+            ]
+        }
     },
     {
         "country": "Iraq",
         "prefix": "964",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "10"
+            ]
+        }
     },
     {
         "country": "Ireland",
         "prefix": "353",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "11"
+            ]
+        }
     },
     {
         "country": "Isle of Man",
@@ -4048,7 +4640,15 @@
             "79987",
             "79988",
             "79989"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "10"
+            ]
+        }
     },
     {
         "country": "Israel",
@@ -4062,7 +4662,15 @@
             "55",
             "57",
             "58"
-        ]
+        ],
+        "prefix_internacional": "00, 012, 013, 014",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Italy",
@@ -4101,7 +4709,15 @@
             "391",
             "392",
             "393"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "up",
+                "11"
+            ]
+        }
     },
     {
         "country": "Ivory Coast",
@@ -4136,7 +4752,12 @@
             "65",
             "66",
             "67"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Jamaica",
@@ -4284,12 +4905,25 @@
             "87",
             "88",
             "89"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Japan",
         "prefix": "81",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "10",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "9",
+                "10"
+            ]
+        }
     },
     {
         "country": "Jersey",
@@ -4821,7 +5455,15 @@
             "79987",
             "79988",
             "79989"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "10"
+            ]
+        }
     },
     {
         "country": "Jordan",
@@ -4830,7 +5472,15 @@
             "77",
             "78",
             "79"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "5",
+                "9"
+            ]
+        }
     },
     {
         "country": "Kazakhstan",
@@ -4843,7 +5493,12 @@
             "776",
             "777",
             "778"
-        ]
+        ],
+        "prefix_internacional": "810",
+        "prefix_nacional": "8",
+        "digits": {
+            "numbers": "10"
+        }
     },
     {
         "country": "Kenya",
@@ -4880,24 +5535,53 @@
             "787",
             "788",
             "789"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "6",
+                "10"
+            ]
+        }
     },
     {
         "country": "Kiribati",
         "prefix": "686",
         "prefix_mobile": [
             "6-7"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "5"
+        }
     },
     {
         "country": "Korea",
         "prefix": "850",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "3",
+                "10"
+            ]
+        }
     },
     {
         "country": "Korea",
         "prefix": "82",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "001, 002",
+        "prefix_nacional": "82",
+        "digits": {
+            "between": [
+                "8",
+                "11"
+            ]
+        }
     },
     {
         "country": "Kuwait",
@@ -4920,47 +5604,97 @@
             "514",
             "515",
             "516"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Kyrgyzstan",
         "prefix": "996",
         "prefix_mobile": [
             "5 70, 77"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Laos",
         "prefix": "856",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Latvia",
         "prefix": "371",
         "prefix_mobile": [
             "2 65153, 65158-65159, 65418, 65779, 68501-68502, 68504, 68509-68510, 68519, 6852, 68535, 6858-6859, 68905, 6891, 78504, 78519, 78521, 78535, 7869-7870, 7880, 78818, 7887, 7891, 78922, 80400, 8060, 810, 9010, 9040, 9060, 9099"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Lebanon",
         "prefix": "961",
         "prefix_mobile": [
             "3 70-71, 760-761, 763-769, 788-789, 791, 793"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Lesotho",
         "prefix": "266",
         "prefix_mobile": [
             "5-6"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Liberia",
         "prefix": "231",
         "prefix_mobile": [
             "4-7"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Libya",
@@ -4971,7 +5705,15 @@
             "94",
             "95",
             "96"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Liechtenstein",
@@ -4987,24 +5729,53 @@
             "67",
             "68",
             "69"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "7",
+                "9"
+            ]
+        }
     },
     {
         "country": "Lithuania",
         "prefix": "370",
         "prefix_mobile": [
             "6 60-63, 640-649, 65, 660, 66105, 6611-6619, 662-663, 6660-6661, 6665, 6667-6670, 66710-66711, 6676-6679, 6686, 66900, 6696-6699, 67, 680-690, 6910, 6913-6919, 692-697, 69742-69743, 69796-69797, 698-699"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Luxembourg",
         "prefix": "352",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "4",
+                "11"
+            ]
+        }
     },
     {
         "country": "Macau",
         "prefix": "853",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Macedonia",
@@ -5017,7 +5788,12 @@
             "76",
             "77",
             "78"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Madagascar",
@@ -5026,12 +5802,28 @@
             "32",
             "33",
             "34"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "9",
+                "10"
+            ]
+        }
     },
     {
         "country": "Malawi",
         "prefix": "265",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Malaysia",
@@ -5052,21 +5844,39 @@
             "17",
             "18",
             "19"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "9"
+            ]
+        }
     },
     {
         "country": "Maldives",
         "prefix": "960",
         "prefix_mobile": [
             "7 9"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Mali",
         "prefix": "223",
         "prefix_mobile": [
             "6-7"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Malta",
@@ -5075,7 +5885,12 @@
             "9811",
             "9812",
             "9813"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Marshall Islands",
@@ -5088,12 +5903,22 @@
             "6250",
             "6251",
             "6252"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Martinique",
         "prefix": "596",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Mauritania",
@@ -5110,7 +5935,12 @@
             "29",
             "3",
             "4"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Mauritius",
@@ -5159,12 +5989,22 @@
             "598",
             "86",
             "87"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Mexico",
         "prefix": "52",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "10"
+        }
     },
     {
         "country": "Micronesia",
@@ -5172,21 +6012,39 @@
         "prefix_mobile": [
             "92",
             "93"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Moldova",
         "prefix": "373",
         "prefix_mobile": [
             "6 76-79"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Monaco",
         "prefix": "377",
         "prefix_mobile": [
             "4 6"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "5",
+                "9"
+            ]
+        }
     },
     {
         "country": "Mongolia",
@@ -5200,7 +6058,15 @@
             "92",
             "95",
             "96"
-        ]
+        ],
+        "prefix_internacional": "001",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Montenegro",
@@ -5209,7 +6075,15 @@
             "67",
             "68",
             "69"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "4",
+                "12"
+            ]
+        }
     },
     {
         "country": "Montserrat",
@@ -5219,7 +6093,12 @@
             "493",
             "495",
             "496"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Morocco",
@@ -5312,17 +6191,38 @@
             "697",
             "698",
             "699"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Mozambique",
         "prefix": "258",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Myanmar",
         "prefix": "95",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "9"
+            ]
+        }
     },
     {
         "country": "Namibia",
@@ -5331,7 +6231,15 @@
             "81",
             "82",
             "83"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "6",
+                "10"
+            ]
+        }
     },
     {
         "country": "Nauru",
@@ -5342,7 +6250,15 @@
             "557",
             "558",
             "559"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "4",
+                "7"
+            ]
+        }
     },
     {
         "country": "Nepal",
@@ -5351,14 +6267,27 @@
             "96",
             "97",
             "98"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Netherlands",
         "prefix": "31",
         "prefix_mobile": [
             "6 97002-97003"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Netherlands Antilles",
@@ -5388,7 +6317,15 @@
             "967",
             "968",
             "969"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "6",
+                "8"
+            ]
+        }
     },
     {
         "country": "New Caledonia",
@@ -5402,7 +6339,12 @@
             "7",
             "8",
             "9"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "6"
+        }
     },
     {
         "country": "New Zealand",
@@ -5416,7 +6358,15 @@
             "27",
             "28",
             "29"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "3",
+                "10"
+            ]
+        }
     },
     {
         "country": "Nicaragua",
@@ -5508,7 +6458,12 @@
             "897",
             "898",
             "899"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Niger",
@@ -5525,7 +6480,12 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Nigeria",
@@ -5550,7 +6510,15 @@
             "816",
             "817",
             "818"
-        ]
+        ],
+        "prefix_internacional": "009",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "10"
+            ]
+        }
     },
     {
         "country": "Northern Mariana Islands",
@@ -5563,19 +6531,40 @@
             "484",
             "788",
             "789"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Norway",
         "prefix": "47",
         "prefix_mobile": [
             "4 58-59, 9"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "5",
+                "8"
+            ]
+        }
     },
     {
         "country": "Oman",
         "prefix": "968",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Pakistan",
@@ -5588,22 +6577,46 @@
             "34",
             "35",
             "36"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "11"
+            ]
+        }
     },
     {
         "country": "Palau",
         "prefix": "680",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "011",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Palestinian Authority",
         "prefix": "970",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "",
+        "prefix_nacional": "",
+        "digits": null
     },
     {
         "country": "Panama",
         "prefix": "507",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Papua New Guinea",
@@ -5616,7 +6629,15 @@
             "71",
             "72",
             "73"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "4",
+                "11"
+            ]
+        }
     },
     {
         "country": "Paraguay",
@@ -5627,17 +6648,41 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "5",
+                "9"
+            ]
+        }
     },
     {
         "country": "Peru",
         "prefix": "51",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "11"
+            ]
+        }
     },
     {
         "country": "Philippines",
         "prefix": "63",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "10"
+            ]
+        }
     },
     {
         "country": "Poland",
@@ -5825,7 +6870,15 @@
             "887",
             "888",
             "889"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "6",
+                "9"
+            ]
+        }
     },
     {
         "country": "Portugal",
@@ -5837,7 +6890,15 @@
             "1891",
             "1892",
             "1893"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "9",
+                "11"
+            ]
+        }
     },
     {
         "country": "Qatar",
@@ -5846,7 +6907,16 @@
             "500",
             "501",
             "502"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "6",
+                "7",
+                "10"
+            ]
+        }
     },
     {
         "country": "Reunion",
@@ -5909,7 +6979,12 @@
             "69392",
             "69393",
             "69394"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Romania",
@@ -5922,12 +6997,22 @@
             "76",
             "77",
             "78"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Russia",
         "prefix": "7",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "810",
+        "prefix_nacional": "8",
+        "digits": {
+            "numbers": "10"
+        }
     },
     {
         "country": "Rwanda",
@@ -5935,7 +7020,12 @@
         "prefix_mobile": [
             "72",
             "73"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Saipan",
@@ -5948,17 +7038,38 @@
             "484",
             "788",
             "789"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Samoa",
         "prefix": "685",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "3",
+                "7"
+            ]
+        }
     },
     {
         "country": "San Marino",
         "prefix": "378",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "6",
+                "10"
+            ]
+        }
     },
     {
         "country": "Sao Tome/Principe",
@@ -5966,7 +7077,12 @@
         "prefix_mobile": [
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Saudi Arabia",
@@ -5980,7 +7096,15 @@
             "56",
             "58",
             "59"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Senegal",
@@ -5990,7 +7114,12 @@
             "77",
             "78",
             "79"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Serbia",
@@ -6005,7 +7134,15 @@
             "66",
             "68",
             "69"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "4",
+                "12"
+            ]
+        }
     },
     {
         "country": "Seychelles",
@@ -6015,7 +7152,12 @@
             "26",
             "27",
             "28"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "6"
+        }
     },
     {
         "country": "Sierra Leone",
@@ -6029,14 +7171,27 @@
             "77",
             "78",
             "79"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Singapore",
         "prefix": "65",
         "prefix_mobile": [
             "8-9"
-        ]
+        ],
+        "prefix_internacional": "001, 008",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "8",
+                "12"
+            ]
+        }
     },
     {
         "country": "Sint Maarten",
@@ -6058,7 +7213,10 @@
             "586",
             "587",
             "588"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": null
     },
     {
         "country": "Slovakia",
@@ -6083,7 +7241,15 @@
             "919",
             "948",
             "949"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "4",
+                "9"
+            ]
+        }
     },
     {
         "country": "Slovenia",
@@ -6099,7 +7265,12 @@
             "9803",
             "9817",
             "9818"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Solomon Islands",
@@ -6117,7 +7288,12 @@
             "86",
             "87",
             "88"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "5"
+        }
     },
     {
         "country": "South Africa",
@@ -6188,12 +7364,20 @@
             "85301",
             "85400",
             "85401"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "South Sudan",
         "prefix": "211",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": null,
+        "prefix_nacional": null,
+        "digits": null
     },
     {
         "country": "Spain",
@@ -6358,7 +7542,12 @@
             "7225",
             "7477",
             "7478"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Sri Lanka",
@@ -6375,12 +7564,22 @@
             "769",
             "77",
             "78"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "St Pierre/Miquelon",
         "prefix": "508",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "6"
+        }
     },
     {
         "country": "St. Kitts & Nevis",
@@ -6406,7 +7605,12 @@
             "764",
             "765",
             "766"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "St. Lucia",
@@ -6448,7 +7652,12 @@
             "728",
             "784",
             "785"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "St. Vincent/Grenadines",
@@ -6478,7 +7687,12 @@
             "531",
             "532",
             "533"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Sudan",
@@ -6492,7 +7706,12 @@
             "95",
             "96",
             "97"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Suriname",
@@ -6513,14 +7732,30 @@
             "87",
             "88",
             "89"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "6",
+                "7"
+            ]
+        }
     },
     {
         "country": "Swaziland",
         "prefix": "268",
         "prefix_mobile": [
             "6-8"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "between": [
+                "7",
+                "8"
+            ]
+        }
     },
     {
         "country": "Sweden",
@@ -6539,7 +7774,15 @@
             "74",
             "75",
             "76"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "13"
+            ]
+        }
     },
     {
         "country": "Switzerland",
@@ -6631,17 +7874,41 @@
             "86079977",
             "86079978",
             "86079979"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "4",
+                "12"
+            ]
+        }
     },
     {
         "country": "Syria",
         "prefix": "963",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "10"
+            ]
+        }
     },
     {
         "country": "Taiwan",
         "prefix": "886",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "002",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Tajikistan",
@@ -6656,7 +7923,12 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "810",
+        "prefix_nacional": "8",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Tanzania",
@@ -6667,14 +7939,27 @@
             "77",
             "78",
             "79"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Thailand",
         "prefix": "66",
         "prefix_mobile": [
             "8-9"
-        ]
+        ],
+        "prefix_internacional": "001",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "Togo",
@@ -6690,12 +7975,22 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Tokelau",
         "prefix": "690",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "4"
+        }
     },
     {
         "country": "Tonga",
@@ -6743,7 +8038,15 @@
             "87",
             "88",
             "89"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "5",
+                "7"
+            ]
+        }
     },
     {
         "country": "Trinidad & Tobago",
@@ -6880,14 +8183,24 @@
             "797",
             "798",
             "799"
-        ]
+        ],
+        "prefix_internacional": "011",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Tunisia",
         "prefix": "216",
         "prefix_mobile": [
             "2 4-5, 9"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Turkey",
@@ -6896,12 +8209,22 @@
             "53",
             "54",
             "55"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "10"
+        }
     },
     {
         "country": "Turkmenistan",
         "prefix": "993",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "810",
+        "prefix_nacional": "8",
+        "digits": {
+            "numbers": "8"
+        }
     },
     {
         "country": "Turks and Caicos Islands",
@@ -6936,12 +8259,25 @@
             "441",
             "442",
             "443"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "1",
+        "digits": {
+            "numbers": "7"
+        }
     },
     {
         "country": "Tuvalu",
         "prefix": "688",
-        "prefix_mobile": []
+        "prefix_mobile": [],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "5",
+                "6"
+            ]
+        }
     },
     {
         "country": "Uganda",
@@ -6955,7 +8291,12 @@
             "77",
             "78",
             "79"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Ukraine",
@@ -6973,7 +8314,12 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "United Arab Emirates",
@@ -6981,7 +8327,15 @@
         "prefix_mobile": [
             "55",
             "56"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "8",
+                "9"
+            ]
+        }
     },
     {
         "country": "United Kingdom",
@@ -7513,7 +8867,15 @@
             "79987",
             "79988",
             "79989"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "10"
+            ]
+        }
     },
     {
         "country": "Uruguay",
@@ -7528,7 +8890,15 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "4",
+                "11"
+            ]
+        }
     },
     {
         "country": "Uzbekistan",
@@ -7544,7 +8914,12 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "810",
+        "prefix_nacional": "8",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Vanuatu",
@@ -7565,7 +8940,15 @@
             "75",
             "76",
             "77"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": null,
+        "digits": {
+            "numbers": [
+                "5",
+                "7"
+            ]
+        }
     },
     {
         "country": "Venezuela",
@@ -7574,7 +8957,12 @@
             "414",
             "415",
             "416"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "10"
+        }
     },
     {
         "country": "Vietnam",
@@ -7611,7 +8999,15 @@
             "995",
             "996",
             "997"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "7",
+                "10"
+            ]
+        }
     },
     {
         "country": "Yemen",
@@ -7619,7 +9015,15 @@
         "prefix_mobile": [
             "70",
             "71"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "6",
+                "9"
+            ]
+        }
     },
     {
         "country": "Zambia",
@@ -7631,7 +9035,12 @@
             "97",
             "98",
             "99"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "numbers": "9"
+        }
     },
     {
         "country": "Zimbabwe",
@@ -7639,6 +9048,14 @@
         "prefix_mobile": [
             "77",
             "78"
-        ]
+        ],
+        "prefix_internacional": "00",
+        "prefix_nacional": "0",
+        "digits": {
+            "between": [
+                "5",
+                "9"
+            ]
+        }
     }
 ]
